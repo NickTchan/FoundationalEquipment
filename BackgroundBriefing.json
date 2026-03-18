@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "title": "PEO branching scenario",
+    "author": "Nicholas Tchan",
+    "version": "0.1",
+    "date": "ISO 8601 date"
+  },
+
+  "learningObjectives": [
+    "Conduct a PEO assessment to determine eligibility for foundational equipment provision by RNs, PTs, or EPs",
+    "Recognize when to escalate to OT based on integrated Person-Environment-Occupation interactions",
+    "Apply PEO framework to safely select, deliver, and train on low-risk equipment (shower chairs, over-toilet aids, bedside commodes)",
+    "Identify and avoid common novice errors in PEO application, particularly domain siloing",
+    "Document clinical reasoning, equipment setup, and patient/carer training for audit and safety"
+  ],
+
+  "patient": {
+    "name": "78-year-old patient",
+    "age": 78,
+    "sex": "Male",
+    "presentingComplaint": "Recent ischemic stroke with residual left-sided weakness",
+    "history": "Admitted 7 days ago for acute ischemic stroke affecting right MCA territory. Received acute rehab. Now medically stable, cognitively intact, able to follow commands. Requires assistance for transfers and mobility.",
+    "pastMedicalHistory": [
+      "Hypertension",
+      "Type 2 Diabetes",
+      "Hyperlipidemia"
+    ],
+    "medications": [
+      "Aspirin 100mg daily",
+      "Atorvastatin 40mg nightly",
+      "Lisinopril 10mg daily",
+      "Metformin 500mg BD"
+    ],
+    "allergies": [
+      "Penicillin (rash)"
+    ],
+    "socialHistory": "Lives alone in single-storey house. Two adult children live nearby. Formerly independent in ADLs. No carer support. Smoked 20 pack-years, quit 5 years ago. Drinks alcohol socially.",
+    "familyHistory": [
+      "Father: MI at 72",
+      "Mother: Stroke at 75"
+    ],
+    "functionalStatus": "Mobilises with single-point stick, requires minimal assistance for lower limb dressing and toileting. Independent with upper limb ADLs. Unable to transfer from bed to chair without assistance.",
+    "homeEnvironment": "Single-storey house, no stairs. Bathroom has step-in shower with no grab rails, narrow doorway (75cm), tiled floor, no shower chair. Toilet is standard height (45cm). Kitchen accessible.",
+    "cognition": "MMSE 29/30, oriented x3, understands instructions, capacity confirmed.",
+    "goalsOfCare": "Return home safely, maintain independence, avoid readmission.",
+    "advanceCarePlan": "No formal document, verbal wishes to remain at home with support if possible.",
+    "otherPatientInfo": {}
+  },
+
+  "clinicalState": {
+    "vitalSigns": {},
+    "examination": "Left hemiparesis (3/5 MRC), reduced proprioception left lower limb. Normal sensation right side. Mild dysarthria. No facial asymmetry. Normal cranial nerves. No signs of new stroke.",
+    "investigations": {
+      "bloods": {},
+      "imaging": {
+        "CT Brain": "Right MCA territory infarct, no haemorrhage, no oedema",
+        "MRI Brain": "Chronic white matter changes, acute right MCA infarct"
+      },
+      "microbiology": {},
+      "ECG": "Sinus rhythm, no ischaemia",
+      "functionalAssessments": "TUG: 22 seconds (high fall risk), Barthel Index: 55/100 (moderate disability)",
+      "otherInvestigations": {}
+    },
+    "currentManagement": "Discharge planned for tomorrow. No OT assessment scheduled. RN to assess for equipment needs prior to discharge.",
+    "otherClinicalInfo": {}
+  },
+
+  "environment": {
+    "setting": "Community discharge planning unit",
+    "timeOfDay": "13:00",
+    "availableEquipment": [
+      "Shower chairs (fixed height, 100kg SWL)",
+      "Over-toilet frames (standard, 100kg SWL)",
+      "Bedside commodes (standard, 100kg SWL)",
+      "Walking frames",
+      "Non-slip mats"
+    ],
+    "availableStaff": [
+      "RN (2)",
+      "PT (1)",
+      "EP (1)",
+      "Social worker (on call)"
+    ],
+    "availableServices": [
+      "Equipment loan pool (24h turnaround)",
+      "Home modification service (2–4 week wait)",
+      "Community nursing (2x/week)"
+    ],
+    "constraints": [
+      "No OT available until next week",
+      "Equipment loan pool has limited stock",
+      "No home modification possible before discharge"
+    ],
+    "otherEnvironmentInfo": {}
+  },
+
+  "evidenceBase": [
+    {
+      "guideline": "Canadian Association of Occupational Therapists - PEO Framework",
+      "recommendation": "Assess Person, Environment, and Occupation as an integrated system — not as separate domains — to determine safe equipment provision.",
+      "source": "https://caot.ca/resources/professional-practice/peo-framework"
+    },
+    {
+      "guideline": "NSW Health - Equipment and Aids for Discharge: Clinical Guidelines",
+      "recommendation": "RNs, PTs, and EPs may initiate provision of foundational equipment (shower chairs, commodes, over-toilet aids) if PEO assessment indicates low risk and OT access is delayed.",
+      "source": "https://www.health.nsw.gov.au/policies/gl/2020/gl2020_042.html"
+    },
+    {
+      "guideline": "World Health Organization - Assistive Technology: Core Competencies for Non-Specialist Providers",
+      "recommendation": "Non-specialist providers must be trained to assess equipment fit, weight capacity, and user safety before provision.",
+      "source": "https://www.who.int/teams/health-product-policy-and-standards/assistive-technology"
+    },
+    {
+      "guideline": "NHS England - Durable Medical Equipment: Provision and Safety Standards",
+      "recommendation": "All equipment must be fitted to the individual — standard sizes are not universally safe. Always verify transfer height and safe working load.",
+      "source": "https://www.england.nhs.uk/publication/durable-medical-equipment-provision-guidance/"
+    },
+    {
+      "guideline": "Australian Commission on Safety and Quality in Health Care - Safe Patient Handling and Movement",
+      "recommendation": "Never exceed equipment SWL. Always ensure patient can bear weight through legs and push up with arms during transfers.",
+      "source": "https://www.safetyandquality.gov.au/our-work/safe-patient-handling-and-movement"
+    },
+    {
+      "guideline": "Journal of Allied Health - Non-OT Provision of Mobility Equipment: A Systematic Review",
+      "recommendation": "Non-OT provision of foundational equipment reduces falls and readmissions when paired with structured PEO assessment and patient training.",
+      "source": "https://jahonline.org/article/S1531-2577(22)00045-6/fulltext"
+    },
+    {
+      "guideline": "EnableNSW - Equipment Loan Scheme: Operational Manual",
+      "recommendation": "Equipment must be delivered, set up, and trained on by a qualified clinician prior to discharge. Documentation of setup and training is mandatory.",
+      "source": "https://www.enablensw.com.au/loan-scheme"
+    },
+    {
+      "guideline": "Invacare - Bedside Commode Installation and Weight Capacity Guide",
+      "recommendation": "Ensure commode height matches patient’s current toilet height. Feet must rest flat on floor. SWL must exceed patient weight by 20%.",
+      "source": "https://www.invacare.com.au/support/product-guides"
+    }
+  ],
+
+  "otherDomainInfo": {}
+}

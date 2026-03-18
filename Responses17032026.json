@@ -1,0 +1,165 @@
+{
+  "title": "Foundational Equipment prescribing",
+  "sponsor": "HETI (Health Education & Training Institute), NSW Health",
+  "purpose": "Identify where challenges to Foundational Equipment Prescribing most commonly arise in practice, to prioritise deeper exploration, shape the first workshop focus, and target subsequent resources to real-world needs.",
+  "instructions": "This short survey should take approximately 10 minutes to complete. Please complete this survey by 5pm Tuesday17th March.",
+  "estimated_duration_minutes": 10,
+  "submission_deadline_text": "5pm Tuesday17th March",
+  "collect_respondent_identity": {
+    "name_captured_by_platform": true,
+    "additional_name_field_present": false,
+    "note": "The form records the respondent's name."
+  },
+  "sections": [
+    {
+      "title": "Your details",
+      "description": "Administrative note: the form will record your name.",
+      "questions": []
+    },
+    {
+      "title": "Survey",
+      "questions": [
+        {
+          "id": "q1",
+          "number": 1,
+          "type": "long_text",
+          "required": true,
+          "prompt": "What aspects of the discharge planning process do you find yourself having to work around when providing equipment safely?"
+        },
+        {
+          "id": "q2",
+          "number": 2,
+          "type": "long_text",
+          "required": true,
+          "prompt": "What parts of the discharge planning process influence how you're able to provide equipment safely?"
+        },
+        {
+          "id": "q3",
+          "number": 3,
+          "type": "long_text",
+          "required": true,
+          "prompt": "Which areas of foundational equipment knowledge, if strengthened, would best support clinicians in making confident and safe prescribing decisions?"
+        },
+        {
+          "id": "q4",
+          "number": 4,
+          "type": "long_text",
+          "required": true,
+          "prompt": "Which aspects of foundational equipment provision do clinicians find most challenging?",
+          "guidance_examples": [
+            "assessment",
+            "equipment prescription",
+            "identifying escalation triggers",
+            "patient/carer training",
+            "documentation"
+          ]
+        },
+        {
+          "id": "q5",
+          "number": 5,
+          "type": "long_text",
+          "required": true,
+          "prompt": "Do clinicians sometimes view foundational equipment prescription as a task that sits outside their role or scope of practice? If so, what factors or experiences might contribute to this view?"
+        },
+        {
+          "id": "q6",
+          "number": 6,
+          "type": "long_text",
+          "required": true,
+          "prompt": "What single 'aha moment' would make the biggest difference to clinicians' approach to equipment prescription if included in a short online module?"
+        },
+        {
+          "id": "q7",
+          "number": 7,
+          "type": "long_text",
+          "required": true,
+          "prompt": "What existing useful resources or reference materials could support clinicians in adopting best practices?",
+          "examples_in_prompt": [
+            "guidelines",
+            "videos",
+            "case studies",
+            "key messages"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Information",
+      "type": "read_only_content",
+      "content_label": "Proposed learning outcomes",
+      "content": {
+        "items": []
+      }
+    }
+  ],
+  "responses": [
+    {
+      "id": 1,
+      "start_time": "3/9/26 10:24:18",
+      "completion_time": "3/9/26 10:30:32",
+      "email": "anonymous",
+      "name": "",
+      "last_modified_time": "",
+      "answers": {
+        "q1": "Availability of hire equipment and the correct equipment\nClient willingness to purchase/ pay for equipment\nClient expectations around basic equipment\nWeekend and after hours- equipment often taken or given away.Incorrect equipment given by untrained staff and often not adjusted correctly. No control after hours",
+        "q2": "Availability of allied health on weekend and after hours (no service) and staff knowledge to provide alternatives",
+        "q3": "Staff present in the health service after hours (eg nursing staff) feeling confident to prescribe, recommend and adjust equipment. Small sites also having this capability where allied health not avaialable- reducing reliance on allied health for providing basic equipment which can actually be purchased at pharmacies etc",
+        "q4": "Staff knowing requirement for clients who have other funding options eg CHSP, SAHP",
+        "q5": "Yes. A definite divide between Physio and OT and heavy reliance on allied health for basic equipment",
+        "q6": "Multiple health professionals are capable of providing basic equipment- this is not a specific allied health task- particularly for non specialised equipment that can be purchased in stores",
+        "q7": "Hunter Equipment Service- HNELHD used to have designated equipment that could be prescribed and who could prescribe (this is many years ago however)"
+      }
+    },
+    {
+      "id": 2,
+      "start_time": "3/9/26 10:21:49",
+      "completion_time": "3/9/26 10:31:03",
+      "email": "anonymous",
+      "name": "",
+      "last_modified_time": "",
+      "answers": {
+        "q1": "As a community nurse, safe equipment provision is heavily influenced by how well the discharge process has been done \u2014 and there are several areas we routinely have to compensate for: minute or unexpected discharges, equipment prescribed without considering the home environment, assumptions about carer availability and capacity.  Equipment delivered but not set up or explained, Unclear follow\u2011up plans",
+        "q2": "From a community nurse's viewpoint, safe equipment provision is heavily shaped by the quality and completeness of the discharge planning process. Understanding the home environment before discharge, Clarity about carer capacity and availability, clear escalation pathways and follow\u2011up plans",
+        "q3": "1. Understanding equipment function and purpose. 2. Matching equipment to functional goal. 3. Risk identification and mitigation 4. Safe setup, use, and troubleshooting 5. Patient and carer education principles. 6. Understanding service pathways and processes. 7. Documentation essentials",
+        "q4": "From a nursing viewpoint, the most challenging aspects of equipment provision tend to centre around balancing safety, patient goals, and real\u2011world practicality.",
+        "q5": "In my experience there are no guidelines for nurses to refer to.",
+        "q6": "Realizing that the right equipment prescription is not about the device \u2014 it's about enabling the person's meaningful participation in daily life.",
+        "q7": "guidelines, and a short online education module would be helpful"
+      }
+    },
+    {
+      "id": 3,
+      "start_time": "2026-03-13 09:11:12",
+      "completion_time": "2026-03-13 09:49:35",
+      "email": "anonymous",
+      "name": "",
+      "last_modified_time": "",
+      "answers": {
+        "q1": "Supporting hospitals with discharge through provision of equipment from EnableNSW when ELPs do not have the equipment and it is causing a discharge delay.",
+        "q2": "Time factors, follow-up with prescribing clinicians",
+        "q3": "Product knowledge and selection; risk factors; safe usage including set up; educating patients and carers;",
+        "q4": "Depends on the professions could be all of the above examples.",
+        "q5": "Yes, depending on qualifications eg nursing staff may consider out of scope to prescribe foundational equipment; physiotherapists may consider self-care equipment out of scope.  \nTraditional roles, lack of education / knowledge may contribute to this view.  Professions reluctant to \"give up\" this component of their role ",
+        "q6": "Impact on the patient - reduces readmission",
+        "q7": "Equipment manuals; other states resources eg QLD Health prescription of shower seated equipment; Internal resources "
+      }
+    },
+    {
+      "id": 4,
+      "start_time": "2026-03-17 09:22:55",
+      "completion_time": "2026-03-17 09:58:59",
+      "email": "anonymous",
+      "name": "",
+      "last_modified_time": "",
+      "answers": {
+        "q1": "Equipment loan pool (ELP) operational hours (M-F) only and only available for 3 month hire \nEligibility of equipment- Enable vs AT-HM scheme/ Geat 2 go vs ELP\nLiaising with physio to complete equipment request form together for both mobility and OT-related equipment ",
+        "q2": "Stock availability in ELP\nBariatric equipment- less equipment available in ELP and equipment suppliers \nPalliative care- additional PC specific ELP with varied range including outsourced hospital beds, mattresses, hoists/ lifting devices \nAccess to photos of the home environment; accurate information given from patient/ family regarding the home environment; \nOften limited capacity for acute OT's to conduct home visits so we use a 'home environment info sheet' for family to complete and return to OT. The info sheet includes seat heights, rails, bath types etc. At times, we may conduct a virtual home visit to obtain info for safe equipment prescription \nHospital access & flow pressures mean that patients may be discharged home quicker than OT has capacity for to conduct thorough ax to determine suitability of equipment within the home environment and considering patients functional mobility ",
+        "q3": "Use of Person, Environment, Occupational model https://peomodel.com/ to identify suitable equipment prescription \nEligibility of alternative equipment source options and 'approved prescribers' e.g. Enable, DVA, NDIS etc \n\nWhen home modifications would be more appropriate than equipment \nConsider family/ carer needs e.g. manual handling ",
+        "q4": "What the unknown 'rules' are about who can prescribe what foundational equipment and whether 'permission' is required from the typical profession (e.g. OT or physio). \nAn understanding of when equipment is no longer 'foundational' and when more specialised, skills are required to assess the patient to determine equipment needs ",
+        "q5": "Yes. Each inpatient ward, service, LHD has unwritten, non-formalised understanding of who can prescribe each piece of equipment. This varies from expectations internationally. For example, it is BAU for OT's to prescribe standard (foundational) mobility aids in UK/ NHS however new/ innovative concept in NSW/ possibly Australia. \nEveryone is busy and there are some clinicians who are cautious that this 'expanded' opportunity will be an additional 'responsibility' that they may not have capacity for (more metro worry than regional/ rural where this is already embedded). Some are worried that this expanded prescription may 'take over' our specialist skillset and reduce our clinical importance in MDT so some change mx could be useful to flag this worry (more metro worry than regional/ rural where this is already embedded). Possibly outlining the benefits of this from a patient perspective- more timely access to equipment (reduced risk of falls/ pressure injuries and improved QoL/ living more independently for longer etc) \nFormal education/ training/ competency is required to work within an inter/transdisciplinary MoC and therefore prescribe equipment \nCompletion of this e-module should be completed prior to prescribing foundational equipment that clinicians have previously not provided ",
+        "q6": "Use of PEO model (or similar) would be a useful framework to consider. I would recommend a updated literature review to determine if a more suitable OT model is available (possibly reach out to OT universities). \nA need to consider longer-term equipment needs if accessing a ELP where hire is for up to 3 months only",
+        "q7": "List of available resources emailed to Jaiganesh from Emma-Kate Dewhurst 2:08pm, Fri 12/12/25. This includes ISLHD interdisciplinary competency; OT/ Physio 'cheat sheet', Enable presribers education sessions, and Indigo Geat2go webinar recordings. \n"
+      }
+    }
+  ]
+}

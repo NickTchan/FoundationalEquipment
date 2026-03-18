@@ -1,0 +1,123 @@
+{
+  "envelope_version": "1.0",
+  "bundle_type": "DeepResearchBundle",
+  "bundle_schema_version": "1.2",
+  "whole_task_id": "COMM-EQ-001",
+  "domain": "community_health_care",
+  "subdomain": "foundational_equipment_provision",
+  "source_agent": "DeepResearchAgent",
+  "source_run_id": "dr-2026-01-29-001",
+  "persona": null,
+  "provenance": {
+    "inputs_summary": "Foundational research on safe, timely provision of low-risk equipment (shower chairs, over-toilet aids, bedside commodes) by RNs, PTs, and EPs in community settings with limited OT access, using the PEO framework.",
+    "references": [
+      {
+        "title": "Canadian Association of Occupational Therapists - PEO Framework",
+        "url": "https://caot.ca/resources/professional-practice/peo-framework"
+      },
+      {
+        "title": "NSW Health - Equipment and Aids for Discharge: Clinical Guidelines",
+        "url": "https://www.health.nsw.gov.au/policies/gl/2020/gl2020_042.html"
+      },
+      {
+        "title": "World Health Organization - Assistive Technology: Core Competencies for Non-Specialist Providers",
+        "url": "https://www.who.int/teams/health-product-policy-and-standards/assistive-technology"
+      },
+      {
+        "title": "NHS England - Durable Medical Equipment: Provision and Safety Standards",
+        "url": "https://www.england.nhs.uk/publication/durable-medical-equipment-provision-guidance/"
+      },
+      {
+        "title": "Australian Commission on Safety and Quality in Health Care - Safe Patient Handling and Movement",
+        "url": "https://www.safetyandquality.gov.au/our-work/safe-patient-handling-and-movement"
+      },
+      {
+        "title": "Journal of Allied Health - Non-OT Provision of Mobility Equipment: A Systematic Review",
+        "url": "https://jahonline.org/article/S1531-2577(22)00045-6/fulltext"
+      },
+      {
+        "title": "EnableNSW - Equipment Loan Scheme: Operational Manual",
+        "url": "https://www.enablensw.com.au/loan-scheme"
+      },
+      {
+        "title": "Invacare - Bedside Commode Installation and Weight Capacity Guide",
+        "url": "https://www.invacare.com.au/support/product-guides"
+      }
+    ]
+  },
+  "content": {
+    "DeepResearchBundle": {
+      "DomainOverview": "Foundational low-risk equipment (e.g., shower chairs, over-toilet aids, bedside commodes) is critical for safe community discharge, preventing hospital admissions, reducing carer injury, and enabling end-of-life care at home. In settings with limited or delayed access to Occupational Therapists (OTs), Registered Nurses (RNs), Physiotherapists (PTs), and Exercise Physiologists (EPs) are often the first and only clinicians responsible for initiating equipment provision. This domain focuses on enabling these non-OT clinicians to safely, confidently, and appropriately select, deliver, and set up foundational equipment using the PEO framework, while recognizing clear escalation pathways for complex cases.",
+      "KeyConceptsAndVocabulary": [
+        "Foundational equipment: Standard, low-risk, readily available items requiring minimal customization (e.g., fixed-height shower stool, standard over-toilet frame, basic bedside commode)",
+        "Complex equipment: Custom-fitted, clinically prescribed items requiring OT assessment (e.g., powered riser-recliner, pressure-relieving cushion, hoist system)",
+        "PEO (Person-Environment-Occupation) framework: A clinical decision model from the Canadian Association of Occupational Therapists (CAOT) assessing the individual's capacity, environmental barriers, and functional needs — critically, the three domains must be considered together, not separately",
+        "DME (Durable Medical Equipment): Equipment provided for long-term use in the home",
+        "Safe working load (SWL): Maximum weight capacity of equipment, must exceed patient weight by 20% for safety",
+        "Transfer height: Optimal seat height to allow feet flat on floor and knees at 90 degrees",
+        "OT-lag: Delay in OT assessment or equipment provision, often 1–3 weeks in rural or high-demand settings",
+        "Equipment triage: Process of prioritizing and allocating equipment based on urgency and risk",
+        "PEO fit: The dynamic overlap between Person, Environment, and Occupation — optimal occupational performance occurs when all three align simultaneously, not when each is satisfactory in isolation"
+      ],
+      "TypicalWholeTasks": [
+        "Clinical identification of mobility or transfer difficulty during home visit by RN/PT/EP",
+        "PEO screening (≤5 minutes) to determine equipment eligibility — treating all three PEO domains as an integrated picture, not a checklist of separate boxes",
+        "Decision to dispatch: Green (immediate), Yellow (OT referral within 48h), Red (urgent OT escalation)",
+        "Delivery and setup of equipment by RN/PT/EP using manufacturer guides and video resources",
+        "Patient and carer training: Demonstrate safe use, observe return demonstration, document understanding",
+        "Follow-up within 7 days to confirm use, safety, and comfort",
+        "Escalation to OT if red flags emerge (e.g., misuse, pain, fall, weight >120kg, height >190cm)"
+      ],
+      "DecisionsAndTradeOffs": [
+        "Speed vs. safety: Deliver equipment today to prevent a fall tomorrow, vs. waiting for OT (which may take 1–3 weeks)",
+        "Standardization vs. personalization: Using 'off-the-shelf' equipment that fits 80% of cases vs. risking harm by delaying provision",
+        "Accountability: RN/PT/EP assumes responsibility for initial provision — how is this supported by policy and training?",
+        "Resource constraints: Equipment stock availability, transport delays, lack of training materials for non-OT staff",
+        "Escalation threshold: When does 'low-risk' become 'high-risk'? (e.g., patient >120kg, severe spasticity, cognitive impairment) — delaying escalation due to fear of 'overburdening OT' is a dangerous myth",
+        "PEO interaction complexity: A patient who appears capable (Person = OK) in a seemingly accessible bathroom (Environment = OK) may still be at high risk if the specific occupational demand — e.g., stepping over a shower lip while fatigued — exceeds the margin of safety when all factors are considered together"
+      ],
+      "CuesAndDiscriminations": [
+        "PEO-based cues must be read as an integrated picture: Person (can they transfer independently? any pain or cognitive issues?), Environment (is the bathroom accessible? any trip hazards?), Occupation (what daily activities are they struggling with?) — a green flag in one domain does not cancel a red flag in another",
+        "Example of a dangerous isolation error: Patient has good upper limb strength (Person = reassuring) and a spacious bathroom (Environment = reassuring), so clinician provides a shower chair without noting the Occupation involves getting in and out of a deep, slippery bath — the interaction between the task demand and the environment creates a high-risk scenario that was invisible when each domain was checked separately",
+        "Subtle signs: Equipment left unused → likely ill-fitting or poorly explained; carer grimacing during transfers → manual handling risk; patient says 'It's too high/low' → incorrect setup, not refusal",
+        "Expert cues: Patient reports pain during use → check SWL and height; carer says 'I'm too tired to help them anymore' → urgent escalation needed",
+        "Cross-domain interaction cues: Cognitive impairment (Person) + cluttered home (Environment) + complex multi-step transfer task (Occupation) = high fall risk even if each factor alone seems borderline manageable"
+      ],
+      "MentalModels": [
+        "PEO = A Three-Legged Stool, Not a Checklist: All three legs must hold weight simultaneously. Checking each leg separately and finding it 'not broken' does not mean the stool is safe to sit on — the interaction between legs is what matters",
+        "Foundational = First Aid for Mobility: Just as you give aspirin for pain before seeing a doctor, you give a shower stool before seeing an OT — but you still check whether aspirin is appropriate for that person in that context",
+        "If it's not used, it's not provided: Usability and patient/carer buy-in are more important than technical perfection",
+        "Escalation is not failure — it's safety: Delaying escalation due to fear of 'bothering OT' is a dangerous myth",
+        "Home first, clinic later: Deliver equipment same day if PEO indicates low risk across all three domains in combination; schedule OT home visit within 48h for setup verification"
+      ],
+      "CommonNoviceMistakes": [
+        "Treating PEO as a sequential checklist rather than an integrated model — passing each domain independently without asking 'how do these three factors interact with each other in this specific situation?'",
+        "Concluding equipment is appropriate because the Person seems capable, without considering whether the Environment and Occupation together create a demand that exceeds that capability (e.g., strong patient + narrow bathroom + complex pivot transfer = high risk that is invisible if domains are siloed)",
+        "Assessing the Occupation in the abstract (e.g., 'showering') rather than the specific task as it will actually be performed in that environment by that person (e.g., 'stepping over a 20cm bath lip, while wet, on a tiled floor, without a grab rail')",
+        "Prescribing based on stock availability, not PEO assessment",
+        "Providing equipment without patient or carer training — assuming the equipment is self-explanatory",
+        "Delaying escalation because 'OT will sort it out eventually' → patient falls in the interim",
+        "Relying on family to 'figure it out' instead of documenting setup and safety checks",
+        "Assuming 'one size fits all' — e.g., using a standard-height commode for a tall patient → increased fall risk",
+        "Ignoring weight limits: Using a 100kg-rated commode for a 110kg patient",
+        "Documenting each PEO domain with a separate tick-box and filing the form without synthesizing what the combination means clinically — creating a paper trail that looks complete but reflects no integrated clinical reasoning",
+        "Assuming that if the patient managed the task in hospital (different environment, different occupation demands) they will manage it at home — failing to recognize that environment and occupation interact differently in the community setting",
+        "Over-relying on what the patient reports they can do (Person self-report) without observing the actual task in the actual environment — especially problematic when cognitive impairment or anxiety may cause over- or under-reporting"
+      ],
+      "ExpertHeuristicsAndShortcuts": [
+        "PEO 3-Minute Integrated Screen (Adapted for Non-OT Use): 1. Person: 'Can they transfer safely without help? Any pain, fatigue, cognitive issues, or fear of falling?' 2. Environment: 'Is the bathroom/bedroom accessible? Any trip hazards, wet surfaces, narrow doorways, lack of grab rails?' 3. Occupation: 'What is the exact task they need to do — step-by-step — in that specific space?' THEN: 'Given all three together, is there a point in this task where person capacity and environmental demands diverge dangerously?' — this final synthesis question is what separates expert from novice use of PEO",
+        "Escalation Triggers (Must Refer to OT Immediately): Weight >120kg, Height >190cm, Severe spasticity or contractures, Cognitive impairment preventing safe use, Complex home environment (stairs, narrow doorways, no bathroom), Any situation where Person + Environment + Occupation interact to create a risk that is greater than the sum of the individual factors",
+        "Setup Rule of Thumb: Shower chair: Seat height = 2–4cm below patient's knee when seated. Commode: Height = same as patient's current toilet (measure with tape). Always check: Can patient's feet rest flat? Can they push up with arms?",
+        "Training Shortcut: 'Show me how you'd use it' — observe the full task in the actual environment, correct, then document. Use QR codes on equipment linking to short video demos"
+      ]
+    }
+  },
+  "links": {
+    "supersedes_bundle_ids": [],
+    "related_bundle_ids": []
+  },
+  "patch_instruction": "merge",
+  "confidence": 0.88,
+  "notes": "Foundational synthesis for RNs, PTs, and EPs in OT-limited settings, integrating the PEO framework. All GEAT to Go references have been removed. Key editorial change: novice mistake of treating PEO domains as isolated checkboxes (rather than an interacting system) has been embedded throughout CuesAndDiscriminations, MentalModels, CommonNoviceMistakes, and ExpertHeuristicsAndShortcuts to create a coherent instructional thread."
+}
+```

@@ -1,0 +1,111 @@
+{
+  "program": "Foundational Equipment Prescription",
+  "overall_learning_outcomes": {
+    "assessment": "Assess a patient's functional needs, desired activities and home environment to determine whether foundational equipment can be safely provided or requires escalation to OT.",
+    "decision_making": "Make safe and timely clinical decisions regarding equipment provision, distinguishing low-risk foundational equipment from complex or custom equipment requiring escalation.",
+    "setup_and_training": "Select and set up appropriate foundational equipment safely; train patients and carers in its use.",
+    "documentation": "Document clinical reasoning, equipment selection, safety verification, training and handover to meet professional and safety requirements."
+  },
+  "topics": [
+    {
+      "topic_id": 1,
+      "title": "What is Foundational Equipment",
+      "elements": [
+        "Definition of foundational equipment and how it differs from complex or specialist equipment",
+        "Examples and limitations of foundational equipment",
+        "Who can provide foundational equipment",
+        "Why foundational equipment matters",
+        "Introduction to assessment (PEO model?)",
+        "Why assessment matters and consequences of incorrect assessment"
+      ]
+    },
+    {
+      "topic_id": 2,
+      "title": "Introduction to Assessment",
+      "elements": [
+        "Types of assessments available",
+        "Understanding patient needs, activities and context",
+        "Standardised approaches (if applicable)"
+      ]
+    },
+    {
+      "topic_id": 3,
+      "title": "Assessing the Patient",
+      "elements": [
+        "Patient values, goals, and interests",
+        "Functional abilities and physical capacities",
+        "Cognitive and communication considerations",
+        "Emotional and psychological factors",
+        "Anthropometrics (weight, height, body proportions)",
+        "Part-task practice: assessing a patient"
+      ]
+    },
+    {
+      "topic_id": 4,
+      "title": "Assessing the Environment",
+      "elements": [
+        "Layout and dimensions of the home environment",
+        "Environmental barriers",
+        "Existing equipment",
+        "Carers, family and social supports",
+        "Services and supports in the environment",
+        "Limits of available information about the environment",
+        "Part-task practice: assessing the environment"
+      ]
+    },
+    {
+      "topic_id": 5,
+      "title": "Assessing What the Patient Needs to Do",
+      "elements": [
+        "Distinguishing ADLs from occupations",
+        "Identifying high‑risk or high‑importance activities",
+        "Impact of fatigue, illness, and time of day",
+        "Differences between hospital and home task performance",
+        "Part-task practice: assessing occupations/ADLs"
+      ]
+    },
+    {
+      "topic_id": 6,
+      "title": "How It All Fits Together",
+      "elements": [
+        "Interaction between patient, environment, and tasks",
+        "Balancing risks between different elements",
+        "Identifying non‑obvious interacting risks",
+        "Determining if foundational equipment is appropriate or whether to escalate",
+        "4C/ID case studies with prescribe/escalate decisions"
+      ]
+    },
+    {
+      "topic_id": 7,
+      "title": "Setting Up Foundational Equipment Safely",
+      "elements": [
+        "Pre‑setup safety checks",
+        "Correct setup indicators for each equipment class",
+        "Common setup errors and how to avoid them",
+        "When equipment should not be set up and alternative actions"
+      ]
+    },
+    {
+      "topic_id": 8,
+      "title": "Training Patients and Carers",
+      "elements": [
+        "Determining knowledge and skill gaps",
+        "Demonstration and return‑demonstration",
+        "Adjusting training for cognitive, language, or literacy barriers",
+        "Supporting resources for after the clinician leaves",
+        "What to do if something goes wrong"
+      ]
+    },
+    {
+      "topic_id": 9,
+      "title": "Documenting Equipment Provision and Clinical Reasoning",
+      "elements": [
+        "Documentation requirements and rationale",
+        "Recording integrated assessment findings",
+        "Documenting equipment specifications and setup",
+        "Documenting training, escalation decisions, and handover",
+        "Risks associated with incomplete or delayed documentation"
+      ]
+    }
+  ]
+}

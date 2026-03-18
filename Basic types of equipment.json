@@ -1,0 +1,230 @@
+{
+  "group_1_equipment": [
+    {
+      "category": "Activities of Daily Living - Beds & bed accessories",
+      "equipment_items": [
+        "Height adjustable over bed table",
+        "Self help pole",
+        "Bed accessories >$100"
+      ],
+      "prescribing_qualifications": [
+        "Occupational Therapist",
+        "Registered Nurse",
+        "Physiotherapist"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Activities of Daily Living - Showering & bathing equipment",
+      "equipment_items": [
+        "Bath & shower equipment >$100",
+        "Bath transfer bench",
+        "Swivel bather",
+        "Mobile shower commode"
+      ],
+      "prescribing_qualifications": [
+        "Occupational Therapist"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Activities of Daily Living - Toileting equipment",
+      "equipment_items": [
+        "Toileting aids & frames >$100",
+        "Bed side commode",
+        "Mobile shower commode"
+      ],
+      "prescribing_qualifications": [
+        "Occupational Therapist",
+        "Registered Nurse"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Communication and Technology - Alaryngeal communication devices",
+      "equipment_items": [
+        "Voice amplifiers"
+      ],
+      "prescribing_qualifications": [
+        "Speech Pathologist"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Communication and Technology - Augmentative and alternative communication devices",
+      "equipment_items": [
+        "Single message devices",
+        "Single level devices"
+      ],
+      "prescribing_qualifications": [
+        "Speech Pathologist"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Communication and Technology - Assistive listening devices and alarms",
+      "equipment_items": [
+        "Alternate alerts and alarms (e.g., shake awake, strobe, vibrating)"
+      ],
+      "prescribing_qualifications": [
+        "Audiologist"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Communication and Technology - Alternate access to print information",
+      "equipment_items": [
+        "Hand held magnifier >$100"
+      ],
+      "prescribing_qualifications": [
+        "Orthoptist",
+        "Occupational Therapist"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Mobility & Transfer - Transfer equipment",
+      "equipment_items": [
+        "Slide board >$100",
+        "Transfer belt >$100"
+      ],
+      "prescribing_qualifications": [
+        "Occupational Therapist",
+        "Physiotherapist"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Mobility & Transfer - Walking aids",
+      "equipment_items": [
+        "Canadian Crutches",
+        "Walking frames >$100"
+      ],
+      "prescribing_qualifications": [
+        "Physiotherapist"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Mobility & Transfer - Wheelchairs",
+      "equipment_items": [
+        "Self-propelled wheelchairs",
+        "Attendant-propelled wheelchairs"
+      ],
+      "prescribing_qualifications": [
+        "Occupational Therapist",
+        "Physiotherapist"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Vehicle Transfer Devices",
+      "equipment_items": [
+        "Slide board >$100",
+        "Turntable >$100",
+        "Portable Ramp"
+      ],
+      "prescribing_qualifications": [
+        "Occupational Therapist",
+        "Physiotherapist"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Orthoses & Footwear - Specialised Footwear",
+      "equipment_items": [
+        "Footwear modifications"
+      ],
+      "prescribing_qualifications": [
+        "Orthotist",
+        "Pedorthist",
+        "Physiotherapist",
+        "Podiatrist",
+        "Medical Specialist"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Orthoses & Footwear - Below Knee Orthoses",
+      "equipment_items": [
+        "Off the shelf lower limb orthoses"
+      ],
+      "prescribing_qualifications": [
+        "Physiotherapist",
+        "Medical Specialist",
+        "Orthotist",
+        "Pedorthist",
+        "Podiatrist"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Pressure Care",
+      "equipment_items": [
+        "Foam cushions/mattresses (for clients at low risk of pressure ulcers)",
+        "Foam overlays (for clients at low risk of pressure ulcers)"
+      ],
+      "prescribing_qualifications": [
+        "Occupational Therapist",
+        "Registered Nurse",
+        "Physiotherapist"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Compression Garments",
+      "equipment_items": [
+        "Off the shelf compression garments"
+      ],
+      "prescribing_qualifications": [
+        "Occupational Therapist",
+        "Physiotherapist",
+        "Registered Nurse",
+        "Specialist medical officer with level 1 training (Lymphoedema Training Course, Australian Lymphology Association)"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Respiratory Equipment - CPAP",
+      "equipment_items": [
+        "CPAP",
+        "Humidification"
+      ],
+      "prescribing_qualifications": [
+        "Qualified Sleep Medicine Practitioner",
+        "Respiratory Physician"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Respiratory Equipment - Oxygen Therapy",
+      "equipment_items": [
+        "Oxygen concentrator device",
+        "Back up/portable cylinders (special circumstances)",
+        "Nasal prongs"
+      ],
+      "prescribing_qualifications": [
+        "Respiratory physicians (Paediatrics & Adults)",
+        "Palliative Care physicians (Paediatrics & Adults)"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    },
+    {
+      "category": "Respiratory Equipment - Nocturnal Ventilation (Obesity Hypoventilation)",
+      "equipment_items": [
+        "Ventilator",
+        "Humidification"
+      ],
+      "prescribing_qualifications": [
+        "Qualified Sleep Medicine Practitioner",
+        "Respiratory Physician"
+      ],
+      "experience_requirements": "Stipulated qualification only (no additional experience required)"
+    }
+  ],
+  "general_group_1_criteria": {
+    "definition": "Simple to set-up and use, not custom-made, frequently prescribed, and stands alone without integration with other equipment",
+    "prescribing_requirements": "Only stipulated professional qualification required (no minimum experience or previous prescription count needed)",
+    "note": "For complex clients (e.g., significant neurological impairment, spinal cord injury), inexperienced clinicians should seek additional clinical supervision even when prescribing Group 1 equipment"
+  }
+}

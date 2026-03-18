@@ -1,0 +1,271 @@
+{
+  "title": "Physiotherapy Mobility Aid Prescription Cheat Sheet",
+  "last_updated": "24/04/2020",
+  "equipment_categories": [
+    {
+      "category_name": "Walking Stick / Single Point Stick (SPS)",
+      "models": [
+        {
+          "name": "Coopers, Swan Neck",
+          "safe_working_load_kg": [125, 100]
+        },
+        {
+          "name": "Moulded Left & Right, Crook",
+          "safe_working_load_kg": 100
+        }
+      ],
+      "prescription_criteria": [
+        "Require extra point of contact with ground",
+        "Mild sensory/coordination problems"
+      ],
+      "image_prompt": "Side view of an elderly person standing upright with a single-point walking stick held in one hand, demonstrating proper posture with elbow slightly flexed and stick positioned at wrist crease height when arm is relaxed at side"
+    },
+    {
+      "category_name": "Quad Sticks (QS)",
+      "models": [
+        {
+          "name": "High Base & Low Base",
+          "safe_working_load_kg": 100
+        },
+        {
+          "name": "Air Go Medium Base",
+          "safe_working_load_kg": [100, 120]
+        }
+      ],
+      "prescription_criteria": [
+        "Patients with hemiplegia (requires physiotherapist consultation)"
+      ],
+      "risks": [
+        "Quad stick base can be a trip hazard"
+      ],
+      "image_prompt": "Front and side view of a quad stick showing its four-pronged base on the floor, with measurement lines indicating proper height adjustment to user's wrist crease when standing with arm relaxed"
+    },
+    {
+      "category_name": "Pick Up Frame (PUF)",
+      "models": [
+        {
+          "name": "Medium & Large (Folding)",
+          "safe_working_load_kg": 125
+        },
+        {
+          "name": "Medium & Large (Non-folding)",
+          "safe_working_load_kg": 160
+        }
+      ],
+      "prescription_criteria": [
+        "Poor balance & reduced strength",
+        "Unable to control a 4-wheel frame",
+        "Non-weight bearing, partial weight bearing or amputee",
+        "Lacking coordination and stability to control 2-wheel frame (non-folding more stable)"
+      ],
+      "risks": [
+        "Fall risk if trying to pull up on frame when standing",
+        "Difficult to turn as front wheels are fixed"
+      ],
+      "image_prompt": "Person demonstrating correct technique using a pick-up frame: standing within frame with both hands on grips, not leaning forward to pull up from sitting position, with frame positioned slightly ahead during ambulation"
+    },
+    {
+      "category_name": "2 Wheel Ski Frame (2WF)",
+      "models": [
+        {
+          "name": "Medium & Large (Folding)",
+          "safe_working_load_kg": 125
+        },
+        {
+          "name": "Medium & Large (Non-folding)",
+          "safe_working_load_kg": 160
+        }
+      ],
+      "prescription_criteria": [
+        "Poor balance & reduced strength",
+        "Unable to control a 4-wheel frame",
+        "Non-weight bearing, partial weight bearing or amputee",
+        "Lacking coordination and stability to control 2-wheel frame (non-folding more stable)"
+      ],
+      "risks": [
+        "Fall risk if trying to pull up on frame when standing",
+        "Difficult to turn as front wheels are fixed"
+      ],
+      "image_prompt": "Close-up of 2-wheel frame showing fixed front skis and rear wheels, with arrows indicating proper lifting technique during gait cycle rather than dragging or pulling frame forward"
+    },
+    {
+      "category_name": "4 Wheel Frame (4WF) with Hand Brakes - Standard",
+      "models": [
+        {
+          "name": "Rover/Petite",
+          "width_cm": 56,
+          "handle_height_cm": "73-84",
+          "seat_height_cm": 47,
+          "safe_working_load_kg": 130
+        },
+        {
+          "name": "Adventurer",
+          "width_cm": 59,
+          "handle_height_cm": "82-92",
+          "seat_height_cm": 55,
+          "safe_working_load_kg": 130
+        },
+        {
+          "name": "Scout",
+          "width_cm": 62,
+          "handle_height_cm": "80-91",
+          "castor_size_inches": 8,
+          "safe_working_load_kg": 130
+        }
+      ],
+      "prescription_criteria": [
+        "Cognitively able to utilise brakes",
+        "Adequate space around home to allow for mobility with frame",
+        "Stable enough to control 4WF but require two hand support to mobilise",
+        "Moderate to severe antalgic gait due to osteoarthritis (rigid frame also suitable)"
+      ],
+      "risks": [
+        "Fall risk if trying to pull up on frame when standing up",
+        "Brakes should be on prior to sitting down and before standing up to prevent movement of frame",
+        "Education required on safe positioning of frame prior to sitting down on frame"
+      ],
+      "image_prompt": "Person demonstrating safe seated transfer technique with 4-wheel frame: brakes engaged, frame positioned at 45-degree angle to chair, user lowering self slowly while maintaining hand contact with frame handles"
+    },
+    {
+      "category_name": "4 Wheel Frame (4WF) with Hand Brakes - Bariatric",
+      "models": [
+        {
+          "name": "Galaxy Walker",
+          "width_cm": 71,
+          "handle_height_cm": "77-92",
+          "seat_height_cm": 54,
+          "safe_working_load_kg": 200
+        }
+      ],
+      "prescription_criteria": [
+        "Cognitively able to utilise brakes",
+        "Adequate space around home to allow for mobility with frame",
+        "Stable enough to control 4WF but require two hand support to mobilise",
+        "Moderate to severe antalgic gait due to osteoarthritis"
+      ],
+      "risks": [
+        "Fall risk if trying to pull up on frame when standing up",
+        "Brakes should be on prior to sitting down and before standing up to prevent movement of frame",
+        "Education required on safe positioning of frame prior to sitting down on frame"
+      ],
+      "image_prompt": "Wider bariatric 4-wheel frame shown in home environment with adequate clearance around furniture, highlighting reinforced frame structure and wider seat base compared to standard models"
+    },
+    {
+      "category_name": "Forearm Support Frame (FASF) - Standard",
+      "models": [
+        {
+          "name": "Walking Tutor / Rear Wheels or Skis",
+          "gutter_height_cm": "90-127",
+          "safe_working_load_kg": 100
+        }
+      ],
+      "prescription_criteria": [
+        "Requiring more support",
+        "Need to offload a lower limb",
+        "Post orthopaedic surgery",
+        "Poor balance & coordination",
+        "Weak lower limbs but reasonable strength in upper limbs"
+      ],
+      "notes": "Non-folding more stable but bulky",
+      "risks": [
+        "Fall risk if trying to pull up on frame when standing from bed/chair"
+      ],
+      "image_prompt": "Person standing in forearm support frame with elbows resting in padded gutters at 90-degree flexion, shoulders relaxed, demonstrating proper weight distribution through forearms rather than hands"
+    },
+    {
+      "category_name": "Forearm Support Frame (FASF) - Bariatric",
+      "models": [
+        {
+          "name": "Henry Care Heavy Duty Blue",
+          "gutter_height_cm": "95-123",
+          "width_cm": 70,
+          "safe_working_load_kg": 170
+        },
+        {
+          "name": "Henry Care Heavy Duty Stainless",
+          "gutter_height_cm": "95-123",
+          "width_cm": 78,
+          "safe_working_load_kg": 250
+        }
+      ],
+      "prescription_criteria": [
+        "Requiring more support",
+        "Need to offload a lower limb",
+        "Post orthopaedic surgery",
+        "Poor balance & coordination",
+        "Weak lower limbs but reasonable strength in upper limbs"
+      ],
+      "notes": "Non-folding more stable but bulky",
+      "risks": [
+        "Fall risk if trying to pull up on frame when standing from bed/chair"
+      ],
+      "image_prompt": "Bariatric forearm support frame with extra-wide base and reinforced gutters, shown supporting a larger individual with proper elbow placement and upright posture"
+    },
+    {
+      "category_name": "Elbow or Canadian Crutches (CC)",
+      "models": [
+        {
+          "name": "K Care, Care Quip",
+          "sizes": ["youth", "adult", "x-large"],
+          "safe_working_load_kg": [100, 127]
+        }
+      ],
+      "prescription_criteria": [
+        "Cannot use SPS & require second point of contact with ground",
+        "Only have full use of one lower limb (e.g., amputation/injury)",
+        "Type of crutch based on comfort"
+      ],
+      "risks": [
+        "Pressure area risk under arm if leaning on crutches or if under arms when sitting down/standing up"
+      ],
+      "image_prompt": "Person using Canadian crutches with hands gripping handgrips, elbows flexed at 20-30 degrees, crutch tips positioned slightly lateral and anterior to feet forming a stable tripod base of support"
+    },
+    {
+      "category_name": "Axilla / Under Arm Crutches",
+      "models": [
+        {
+          "name": "Aluminium",
+          "safe_working_load_kg": [100, 125]
+        }
+      ],
+      "prescription_criteria": [
+        "Cannot use SPS & require second point of contact with ground",
+        "Only have full use of one lower limb (e.g., amputation/injury)",
+        "Type of crutch based on comfort"
+      ],
+      "risks": [
+        "Pressure area risk under arm if leaning on crutches or if under arms when sitting down/standing up"
+      ],
+      "image_prompt": "Side view showing correct axilla crutch fitting: two fingers' width (approximately 5cm) clearance between top of crutch pad and axilla, with hand gripping handgrip at wrist crease height"
+    }
+  ],
+  "general_notes": [
+    "Physiotherapist should always be consulted when prescribing equipment for any patient that is not cleared to weight bear as tolerated (WBAT)",
+    "Crutches in most cases not suitable for patients over 55 years of age"
+  ],
+  "measurement_guidelines": {
+    "handle_height_sps_4wf_2wf_puf": {
+      "steps": [
+        "Get person to stand upright with hands by side",
+        "Measure distance from floor to wrist crease",
+        "Add this information to referral form in brackets after equipment description, e.g., '4WF (handle height 80cm)'"
+      ],
+      "image_prompt": "Person standing barefoot against wall with arms relaxed at sides, tape measure extending vertically from floor to natural wrist crease with palm facing body"
+    },
+    "crutch_measurements": {
+      "hand_grip": "Measured using same method as handle height (floor to wrist crease)",
+      "axilla_pad": "Measured two fingers (or 5cm) below the axilla",
+      "image_prompt": "Close-up diagram showing tape measure positioned 5cm below axilla for crutch pad height, with second measurement line from floor to wrist crease for handgrip height"
+    },
+    "forearm_support_frame_gutters": {
+      "steps": [
+        "Person to stand in frame with arms in neutral position",
+        "Elbows at 90 degrees of flexion and shoulders relaxed",
+        "Adjust gutter to this height"
+      ],
+      "image_prompt": "Person standing within forearm support frame with elbows bent precisely at 90 degrees, forearms resting horizontally in padded gutters, shoulders relaxed and not hunched"
+    }
+  },
+  "specialised_equipment_note": "Knee scooter, 1 handed walker, gutter crutches – require specialised physiotherapist assessment only"
+}
+```
