@@ -1,4 +1,167 @@
-{
+[
+  {
+  "topic_id": 1,
+  "topic": "Topic 1: What is Foundational Equipment",
+  "screens": [
+    {
+      "screen_title": "What is foundational equipment and how does it differ from complex equipment?",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "Examples of foundational equipment and its limitations.",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "Who can provide foundational equipment?",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "How prescribing foundational equipment benefits patients, the community and the NSW Health system.",
+      "screen_content": ""
+    }
+  ]
+},
+  {
+  "topic_id": 2,
+  "topic": "Topic 2: Introduction to assessment",
+  "screens": [
+    {
+      "screen_title": "Introduction to assessment.",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "How a structured assessment process ensures the right equipment prescribing decisions are made.",
+      "screen_content": ""
+    }
+  ]
+},
+  {
+  "topic_id": 3,
+  "topic": "Topic 3: Understanding the patient",
+  "screens": [
+       {
+      "screen_title": "Understanding the impact of the patient’s clinical diagnosis.",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "Understanding the priorities of patients and their carers.",
+      "screen_content": ""
+    },
+     {
+      "screen_title": "Considering the patient's health literacy, cognitive function, and language ability.",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "How do psychosocial factors influence how the patient might the equipment?",
+      "screen_content": ""
+    },
+        {
+      "screen_title": "Obtaining patient measurements (e.g., height, weight, limb length) for safe foundational equipment prescription.",
+      "screen_content": ""
+    }
+  ]
+},
+  {
+  "topic_id": 4,
+  "topic": "Topic 4: Understanding the patient’s environment",
+  "screens": [
+    {
+      "screen_title": "How does the environment impact the patient's goals?",
+      "screen_content": ""
+    },
+    {
       "screen_title": "Techniques for assessing the patient’s home environment.",
       "screen_content": ""
     },
+
+            {
+      "screen_title": "Identify the services and supports available to the patient.",
+      "screen_content": ""
+    }
+  ]
+},
+  {
+  "topic_id": 5,
+  "topic": "Topic 5: How does it all fit together?",
+  "screens": [
+    {
+      "screen_title": "How to balance risks.",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "How to spot when the combination of factors creates a risk that is not obvious when each factor is considered separately.",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "Practical considerations in use of equipment (transport).",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "The decision: Prescribe, consult or refer?",
+      "screen_content": ""
+    }
+  ]
+},
+ {
+  "topic_id": 6,
+  "topic": "Topic 6: Setting up Foundational Equipment safely",
+  "screens": [
+    {
+      "screen_title": "What do we need to check before setting up any piece of equipment?",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "What does correct setup look like for each class of foundational equipment and how do we know when it is wrong?",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "What are the most common setup errors, and how do we avoid them?",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "What are the best options for equipment and support for your patient's circumstances? ",
+      "screen_content": ""
+    }
+  ]
+},
+  {
+  "topic_id": 7,
+  "topic": "Topic 7: Training patients and carers",
+  "screens": [
+    {
+      "screen_title": "What does the patient and carer already know, and what do they need to be able to do safely?",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "How do we demonstrate safe equipment use and confirm understanding?",
+      "screen_content": ""
+    },
+        {
+      "screen_title": "What resources can support the patient or their carers?",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "What should the patient and carer do if something goes wrong?",
+      "screen_content": ""
+    }
+  ]
+},
+  {
+  "topic_id": 8,
+  "topic": "Topic 8: Documenting your equipment provision and clinical reasoning",
+  "screens": [
+    {
+      "screen_title": "What are we required to document and why does it matter?",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "How do we document our assessment and equipment details?",
+      "screen_content": ""
+    },
+    {
+      "screen_title": "How do we record patient goals, patient and carer training, the reasoning behind consultation or referral decisions, and clinical handover?",
+      "screen_content": ""
+    }
+  ]
+}
+]
