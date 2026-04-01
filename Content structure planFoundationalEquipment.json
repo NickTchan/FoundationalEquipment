@@ -37,37 +37,25 @@
 },
   {
   "topic_id": 3,
-  "topic": "Topic 3: Assessing patient function",
+  "topic": "Topic 3: Understanding the patient,
   "screens": [
-    {
-      "screen_title": "How cognitive, language, or literacy factors change how we deliver training?",
-      "screen_content": ""
-    },
-    {
+       {
       "screen_title": "Understanding the impact of the patient’s clinical diagnosis.",
       "screen_content": ""
     },
     {
-      "screen_title": "Understanding the priorities of the patient and their carers.",
+      "screen_title": "Understanding the priorities of patients and their carers.",
+      "screen_content": ""
+    },
+     {
+      "screen_title": "Considering the patient's health literacy, cognitive function, and language ability.",
       "screen_content": ""
     },
     {
-      "screen_title": "Assessing the patient’s overall function in the context of their goals.",
+      "screen_title": "How do psychosocial factors influence how the patient might the equipment?",
       "screen_content": ""
     },
-    {
-      "screen_title": "Assessing health literacy, cognitive function, and language ability.",
-      "screen_content": ""
-    },
-    {
-      "screen_title": "Assessing psychosocial factors.",
-      "screen_content": ""
-    },
-    {
-      "screen_title": "Anticipating how a patient’s functional performance in hospital may differ from their home performance.",
-      "screen_content": ""
-    },
-    {
+        {
       "screen_title": "Obtaining patient measurements (e.g., height, weight, limb length) for safe foundational equipment prescription.",
       "screen_content": ""
     }
@@ -75,22 +63,18 @@
 },
   {
   "topic_id": 4,
-  "topic": "Topic 4: Understanding the patient’s context",
+  "topic": "Topic 4: Understanding the patient’s environment",
   "screens": [
     {
-      "screen_title": "How to assess the patient's goals in their current context.",
+      "screen_title": "How does the environment impact the patient's goals?",
       "screen_content": ""
     },
     {
-      "screen_title": "How to assess the patient’s home environment.",
+      "screen_title": "Techniques for assessing the patient’s home environment.",
       "screen_content": ""
     },
-    {
-      "screen_title": "Techniques for eliciting accurate home environment information and limitations of assessment.",
-      "screen_content": ""
-    },
-    {
-      "screen_title": "How to assess the services and supports available to the patient.",
+        {
+      "screen_title": Identify the services and supports available to the patient.",
       "screen_content": ""
     }
   ]
@@ -134,7 +118,7 @@
       "screen_content": ""
     },
     {
-      "screen_title": "What are the different methods of accessing short and long-term foundational equipment that are available in NSW?",
+      "screen_title": "What are the best options for equipment and support for your patient's circumstances? ",
       "screen_content": ""
     }
   ]
@@ -151,11 +135,7 @@
       "screen_title": "How do we demonstrate safe equipment use and confirm understanding?",
       "screen_content": ""
     },
-    {
-      "screen_title": "How do cognitive, language, or literacy factors change how we deliver training?",
-      "screen_content": ""
-    },
-    {
+        {
       "screen_title": "What resources can support the patient or their carers?",
       "screen_content": ""
     },
