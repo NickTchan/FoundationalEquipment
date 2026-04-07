@@ -5,19 +5,15 @@
   "screens": [
     {
       "screen_title": "What is foundational equipment and how does it differ from complex equipment?",
-      "screen_content": ""
+      "screen_content": "Text on the definition of Foundation Equipment, how it differs from complex equipment, and why the distinction matters. How the outcomes in the context of patient need and risk determine whether equipment is foundational or complex. Process image carousel that describes the features of the major classes (i.e. mobility aids, transfers, et cetera) of Foundational Equipment."
     },
     {
       "screen_title": "Examples of foundational equipment and its limitations.",
-      "screen_content": ""
+      "screen_content": "Short clinical vignette with two similar patients. One vignette shows equipment meeting needs and one shows limitations Matching exercise (flip cards)."
     },
-    {
-      "screen_title": "Who can provide foundational equipment?",
-      "screen_content": ""
-    },
-    {
-      "screen_title": "How prescribing foundational equipment benefits patients, the community and the NSW Health system.",
-      "screen_content": ""
+        {
+      "screen_title": "The role and impact of Foundational Equipment in NSW Health",
+      "screen_content": "Text introduction of who can prescribe (short paragraph) then same roles with quote carousel from RNs, ENs, physio how foundational equipment prescription benefits their patients (also have variety of settings, etc.), community and NSW Health system."
     }
   ]
 },
@@ -26,14 +22,10 @@
   "topic": "Topic 2: Introduction to assessment",
   "screens": [
     {
-      "screen_title": "Introduction to assessment.",
-      "screen_content": ""
-    },
-    {
-      "screen_title": "How a structured assessment process ensures the right equipment prescribing decisions are made.",
-      "screen_content": ""
+      "screen_title": "What does it mean to assess a patient?",
+      "screen_content": "Venn diagram showing patient at centre. Text + Accordion interaction about the goal of assessment is ensuring that the equipment fits real world needs in a safe manner. Accordion segments into PEO without naming distinct components but shows how equipment fits needs in each component. Clinical case study with patient and piece of equipment. "
     }
-  ]
+      ]
 },
   {
   "topic_id": 3,
@@ -41,23 +33,19 @@
   "screens": [
        {
       "screen_title": "Understanding the impact of the patient’s clinical diagnosis.",
-      "screen_content": ""
+      "screen_content": "Discussion of how clinical diagnosis may influence how patients move, rest and manage daily tasks over time. Accordion examples of different diagnoses."
     },
     {
-      "screen_title": "Understanding the priorities of patients and their carers.",
-      "screen_content": ""
+      "screen_title": "Understanding patient and carer priorities.",
+      "screen_content": "Text section on What does this person want to do that they can’t do right now? Focus on independent use of equipment outside of carers. Tab section on carer physical capacity, time availability, and emotional readiness, realistic and sustainable use."
     },
      {
-      "screen_title": "Considering the patient's health literacy, cognitive function, and language ability.",
-      "screen_content": ""
+      "screen_title": "Considering factors that may influence whether equipment is used or used correctly.",
+      "screen_content": "Text vignettes of different factors (health literacy, cognitive, etc) with flip cards of outcomes of prescription. MCMA questions where user must pick instructions in a format that would be suitable for patients with described low health literacy (i.e. patient clearly doesn’t understand health terms), language barriers and cognitive barriers."
     },
-    {
-      "screen_title": "How do psychosocial factors influence how the patient might the equipment?",
-      "screen_content": ""
-    },
-        {
-      "screen_title": "Obtaining patient measurements (e.g., height, weight, limb length) for safe foundational equipment prescription.",
-      "screen_content": ""
+     {
+      "screen_title": "What do you need to measure?",
+      "screen_content": "Text and bullet list – Clear checklist: “Measure patient hip width”, “height”, “weight”. Includes red flags of where measurement has a significant risk impact. "
     }
   ]
 },
@@ -65,18 +53,17 @@
   "topic_id": 4,
   "topic": "Topic 4: Understanding the patient’s environment",
   "screens": [
-    {
-      "screen_title": "How does the environment impact the patient's goals?",
-      "screen_content": ""
+	  {
+      "screen_title": "How to assess the patient’s home environment.",
+      "screen_content": "Text to introduce + Carousel of considerations and tips (i.e. encourage use of photos, videos or sketches, smartphones, measurable features). Flip cards of “second questions” in scenario. "
     },
     {
-      "screen_title": "Techniques for assessing the patient’s home environment.",
-      "screen_content": ""
+      "screen_title": "How should the equipment help patients within their environment?",
+      "screen_content": "Interactive activity on linking every goal to a specific, observable activity in context. How do different types of equipment help the patient meet their goals within their current context."
     },
-
-            {
-      "screen_title": "Identify the services and supports available to the patient.",
-      "screen_content": ""
+    {
+      "screen_title": "Thinking beyond the home environment",
+      "screen_content": "Checklist of issues to consider when prescribing equipment. Cost, carers, transport. Practical pathways to equipment prescription (button stacks with official pathways such as enable NSW)."
     }
   ]
 },
@@ -86,41 +73,21 @@
   "screens": [
     {
       "screen_title": "How to balance risks.",
-      "screen_content": ""
-    },
-    {
-      "screen_title": "How to spot when the combination of factors creates a risk that is not obvious when each factor is considered separately.",
-      "screen_content": ""
-    },
-    {
-      "screen_title": "Practical considerations in use of equipment (transport).",
-      "screen_content": ""
+      "screen_content": "Text on recognising patterns in assessment, not just thresholds. Carousel with \"stacking\" issues (i.e. mild weakness, step over bath, et cetera) where simple equipment could address each issue in isolation (noting this in carousel) but then leaving them with the conclusion screen that referral or consultation is required, explaining why."
     },
     {
       "screen_title": "The decision: Prescribe, consult or refer?",
-      "screen_content": ""
+      "screen_content": "Matching exercise with decision to prescribe (equipment decision is made for learner) consult or refer. Risks are described both in risks of not prescribing and risks of a non-appropriate prescription. Escalation cues are purposely ambiguous for each decision point, with knowledge of patient key to vignette for matching exercise. Built into each scenario is variable lag time for OT assessment."
     }
   ]
 },
- {
+  {
   "topic_id": 6,
-  "topic": "Topic 6: Setting up Foundational Equipment safely",
+  "topic": "Topic 6: Setting up Foundational Equipment Safely",
   "screens": [
     {
-      "screen_title": "What do we need to check before setting up any piece of equipment?",
-      "screen_content": ""
-    },
-    {
-      "screen_title": "What does correct setup look like for each class of foundational equipment and how do we know when it is wrong?",
-      "screen_content": ""
-    },
-    {
-      "screen_title": "What are the most common setup errors, and how do we avoid them?",
-      "screen_content": ""
-    },
-    {
-      "screen_title": "What are the best options for equipment and support for your patient's circumstances? ",
-      "screen_content": ""
+      "screen_title": "Will This Setup Stay Safe?",
+      "screen_content": "Spot universal setup errors and apply patient-informed assessment of patient capacity for setup and maintenance. Will the equipment remain secure and correctly positioned given what you already know about the patient's cognition, vision, dexterity, habits, and environment? Table of Universal Setup Error Cues, i.e. cues that something hasn't been set up correctly, what the patient consequence might be, how to repair."
     }
   ]
 },
@@ -130,38 +97,16 @@
   "screens": [
     {
       "screen_title": "What does the patient and carer already know, and what do they need to be able to do safely?",
-      "screen_content": ""
+      "screen_content": "Confirming what they know, common knowledge gaps and maintenance confirmation. Rise Interaction (Primary): Accordion – Expandable sections: “What patients often know” vs. “Where misunderstandings occur”, with real-world examples. Example of timeline where safe equipment use is beyond initial use, i.e. Timeline – Visual sequence: “Receive → Set Up → Use → Clean → Store → Check Daily” — each stage includes common risks and safety checks for bedside commode. building safety in routine maintenance."
     },
     {
       "screen_title": "How do we demonstrate safe equipment use and confirm understanding?",
-      "screen_content": ""
-    },
-        {
-      "screen_title": "What resources can support the patient or their carers?",
-      "screen_content": ""
+      "screen_content": "Text section on key ideas clinician is trying to confirm through teachback for each major class of equipment. Underneath text, link to CEC resources (videos, etc.) and confirmation of who will be involved with using the equipment. Vignette of expert teachback?"
     },
     {
-      "screen_title": "What should the patient and carer do if something goes wrong?",
-      "screen_content": ""
+      "screen_title": "What resources can support the patient and their carers?",
+      "screen_content": "Text on clinician's role in accessing support services and funding. Hyperlinks to earlier material on CEC falls prevention equipment guides. Clinical vignette with suggested resources for discharge of patient with bedside commode, i.e. Think of a person being discharged with a bedside commode. Questions at each stage are : Arrange delivery? Assemble it at home? Clean it daily? Report damage or loss? with highlight for suggested supports and services." 
     }
-  ]
-},
-  {
-  "topic_id": 8,
-  "topic": "Topic 8: Documenting your equipment provision and clinical reasoning",
-  "screens": [
-    {
-      "screen_title": "What are we required to document and why does it matter?",
-      "screen_content": ""
-    },
-    {
-      "screen_title": "How do we document our assessment and equipment details?",
-      "screen_content": ""
-    },
-    {
-      "screen_title": "How do we record patient goals, patient and carer training, the reasoning behind consultation or referral decisions, and clinical handover?",
-      "screen_content": ""
-    }
-  ]
-}
+            ]
+  }
 ]
