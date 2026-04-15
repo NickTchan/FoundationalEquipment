@@ -1,0 +1,406 @@
+[
+  {
+    "topic_id": 0,
+    "topic": "1. Introduction",
+    "screens": [
+      {
+        "screen_title": "1.1 Welcome and Overview",
+        "screen_content": "Welcome to the Foundational Equipment module. This module is for registered nurses, enrolled nurses, and physiotherapists across NSW Health involved in patient discharge and community care. You will learn a consistent, evidence-based framework for assessing, prescribing, setting up, and documenting foundational equipment within your scope of practice. By prescribing foundationally, you allow occupational therapists to focus on high-risk, complex cases—improving patient safety and discharge flow for everyone. Accessibility: This module is designed for screen-reader compatibility. All audio content includes transcripts. All images include alt-text descriptions. If you require adjustments, contact your local learning team.",
+        "Variations/Common mistakes/conceptual focus": "Addressing the misconception that only OTs can prescribe basic equipment; framing the module as 'permission and empowerment' for frontline clinicians.",
+        "Screen type": "Text & centred image",
+        "Media required": "Hero image: diverse clinician with patient and a piece of foundational equipment (e.g., walking frame) in a community/ward setting. Alt-text required.",
+        "Resources required/references/consultation": "NSW Health Scope of Practice frameworks; HETI Module Design Standards.",
+        "Learning outcome addressed": "N/A",
+        "Estimated seat time": "0:30–1:00"
+      },
+      {
+        "screen_title": "1.2 How to Navigate This Module — Desktop",
+        "screen_content": "Standardised navigational instructions for the Rise 360 desktop interface. Use the sidebar menu to track progress. Interactive activities must be completed before proceeding. Estimated module duration: see final summary screen for confirmed seat time.",
+        "Variations/Common mistakes/conceptual focus": "Standardised content.",
+        "Screen type": "Text & centred image",
+        "Media required": "Standard labelled graphic of the Rise 360 desktop interface (sidebar, progress bar, next/previous buttons).",
+        "Resources required/references/consultation": "N/A",
+        "Learning outcome addressed": "N/A",
+        "Estimated seat time": "0:20–0:30"
+      },
+      {
+        "screen_title": "1.3 How to Navigate This Module — Mobile & Audio",
+        "screen_content": "This module is responsive and adjusts to your screen size. Swipe or tap to progress. All interactive elements are touch-friendly. This module contains audio scenarios featuring patient-clinician interactions. Please ensure your audio is enabled or use the provided transcripts accessible via the transcript icon on each audio block.",
+        "Variations/Common mistakes/conceptual focus": "Standardised content.",
+        "Screen type": "Text & centred image; Note block",
+        "Media required": "Labelled graphic of mobile Rise 360 interface; audio icon indicator image.",
+        "Resources required/references/consultation": "N/A",
+        "Learning outcome addressed": "N/A",
+        "Estimated seat time": "0:20–0:30"
+      },
+      {
+        "screen_title": "1.4 Priming Activity: What Do You Need to Know?",
+        "screen_content": "Scenario: A 74-year-old patient is being discharged home after a hip fracture. She lives alone in a single-storey home. She tells you, 'I just need the walking frame from the ward—my bathroom is fine.' Select ALL the factors you must verify before she leaves with that frame. Options: (A) Width of bathroom doorway versus frame width; (B) Whether she can lift the frame over a bath edge if the shower is over a bath; (C) Whether the patient has a diagnosis of osteoporosis; (D) Weight capacity of the frame versus patient weight; (E) Availability of OT follow-up in 4 weeks; (F) Patient's confidence and ability to use the frame on wet tiles; (G) Distance from bedroom to toilet and any steps along the path.",
+        "Variations/Common mistakes/conceptual focus": "Multi-select forces evaluation of ALL factors—mirrors the real clinical reasoning task where multiple variables must be considered simultaneously. Targets the 'unknown unknowns': environmental obstacles, equipment specification match, and the patient's tendency to say 'It's fine' without disclosing barriers. Pre-testing effect activates schema for subsequent content (Pan & Carpenter, 2023). Correct answers: A, B, D, F, G. Distractors C and E are relevant to care but not to safe equipment provision at discharge.",
+        "Screen type": "Multiple choice (multi)",
+        "Media required": "Image of an older woman (patient character: Mrs Chen) in a hospital room with a walking frame visible.",
+        "Resources required/references/consultation": "Pan & Carpenter (2023) on prequestioning effects; SME Workshop transcript (Sarah's 'toilet outside' example).",
+        "Learning outcome addressed": "LO2, LO3",
+        "Estimated seat time": "1:30–2:30"
+      },
+      {
+        "screen_title": "1.5 Priming Activity — Feedback",
+        "screen_content": "The critical factors were: doorway width versus frame width (A), shower-over-bath configuration (B), equipment weight capacity (D), confidence on wet surfaces (F), and distance/path to the toilet (G). Simply providing a frame without understanding the home context can lead to falls, equipment abandonment, or a missed referral point. Diagnosis of osteoporosis (C) is part of medical history but does not determine whether this specific frame can be used safely at home. OT follow-up (E) is good practice but does not address the immediate safety gap at discharge. This module gives you the framework to assess these factors and make confident decisions. We will return to Mrs Chen at the end to test your skills.",
+        "Variations/Common mistakes/conceptual focus": "Bookend design: Mrs Chen is introduced here and revisited in the final integrative case study. This provides a cognitive anchor and allows learners to measure their own growth.",
+        "Screen type": "Text only",
+        "Media required": "N/A",
+        "Resources required/references/consultation": "N/A",
+        "Learning outcome addressed": "LO2, LO3",
+        "Estimated seat time": "0:30–0:45"
+      }
+    ]
+  },
+  {
+    "topic_id": 1,
+    "topic": "2. What is Foundational Equipment?",
+    "screens": [
+      {
+        "screen_title": "2.1 Defining Foundational vs Complex Equipment",
+        "screen_content": "Foundational equipment: standardised, low-risk assistive devices that support a person's immediate function, mobility, or safety in predictable environments. They do not require custom fabrication or specialist configuration. Complex equipment: high-risk, custom-configured, or specialist-assessed devices for patients with unstable or multifactorial needs (e.g., power wheelchairs, custom hoist slings, bariatric equipment exceeding standard weight limits). The distinction is based on patient need, environmental fit, and clearly explicable risk—not on the item's name alone.",
+        "Variations/Common mistakes/conceptual focus": "Assuming all mobility aids are foundational; failing to recognise when patient weight, body shape, or environmental complexity shifts an otherwise 'simple' item into the complex category.",
+        "Screen type": "Text & bullet list; Note block",
+        "Media required": "Comparison diagram: 'Foundational (off-the-shelf, standard configuration)' vs 'Complex (custom, specialist assessment required)'. Alt-text required.",
+        "Resources required/references/consultation": "CEC Standardised Mobility Terminology; Enable NSW Equipment Categories; SME Workshop consensus on foundational scope.",
+        "Learning outcome addressed": "LO1",
+        "Estimated seat time": "1:00–1:30"
+      },
+      {
+        "screen_title": "2.2 Categories of Foundational Equipment",
+        "screen_content": "Process carousel presenting major classes in logical clinical sequence: Slide 1 — Mobility Aids: Walking sticks (W/S), quad sticks (QS), pick-up frames (PUF), four-wheeled walkers (4WW), Canadian/Australian crutches. Primary indication: ambulatory support for stable patients. Slide 2 — Transfer Aids: Transfer belts, sliding sheets. Primary indication: safe person transfers. Slide 3 — Bathroom & Toileting: Shower stools/chairs, toilet surrounds, over-toilet frames, bedside commodes. Primary indication: personal care safety. Slide 4 — Basic Seating & Positioning: Standard manual wheelchairs (for transport, not primary mobility), bed levers. Primary indication: temporary positioning or short-distance transport. Each slide shows the device image, standardised abbreviation, and one-line primary indication.",
+        "Variations/Common mistakes/conceptual focus": "Pedagogical purpose: sequential carousel manages intrinsic load by chunking equipment into functional categories rather than an overwhelming flat list. Learners process one category at a time and build a mental taxonomy. Common error: confusing a rollator/4WW with a forearm support walker; prescribing axillary crutches when Canadian crutches are indicated (risk of neurovascular compression).",
+        "Screen type": "Carousel (general/process)",
+        "Media required": "Equipment images from CEC Standardised Mobility Terminology (Appendix A) with standardised terminology labels. One representative image per equipment type per slide.",
+        "Resources required/references/consultation": "CEC Standardised Mobility Terminology; Equipment JSON categories; Enable NSW Scope list.",
+        "Learning outcome addressed": "LO1",
+        "Estimated seat time": "1:30–2:00"
+      },
+      {
+        "screen_title": "2.3 Classification Challenge: Foundational or Complex?",
+        "screen_content": "Flip card activity with four clinical vignettes. Learners read the scenario on the front and predict the classification, then flip to reveal the answer with clinical rationale. Card 1 Front: 'Mrs Patel, 70kg, stable post-op, needs a pick-up frame for household ambulation in a single-storey home.' Back: 'FOUNDATIONAL — Standard device, stable patient, predictable environment, within weight capacity.' Card 2 Front: 'Mr Ahmed, 135kg, fluctuating consciousness, needs a hoist for bed-to-chair transfers.' Back: 'COMPLEX — Exceeds standard weight capacity, requires bariatric-specific sling, unstable medical status.' Card 3 Front: 'Ms Kelly, severe contractures, limited trunk control, requires wheelchair for primary community mobility.' Back: 'COMPLEX — Custom seating and postural support required; specialist OT wheelchair assessment needed.' Card 4 Front: 'Mr Li, mild arthritis, wants a shower stool for his walk-in shower recess at home.' Back: 'FOUNDATIONAL — Standard device, stable condition, compatible environment (walk-in shower confirmed).'",
+        "Variations/Common mistakes/conceptual focus": "Active cognitive processing: learners must synthesise patient factors (weight, stability, complexity) and environmental factors before classifying. Flip card format forces prediction before feedback, strengthening retrieval practice. Common error: prescribing standard equipment for patients exceeding weight capacity.",
+        "Screen type": "Flip cards (KC/explore)",
+        "Media required": "Equipment images: PUF, hoist sling, power wheelchair, shower stool.",
+        "Resources required/references/consultation": "Equipment JSON categories; Weight Bearing Status definitions; SME Workshop.",
+        "Learning outcome addressed": "LO1, LO3",
+        "Estimated seat time": "1:30–2:15"
+      },
+      {
+        "screen_title": "2.4 The Impact of Timely Equipment Provision",
+        "screen_content": "Quote carousel presenting three clinician perspectives from different professional roles and settings, each highlighting a distinct benefit. Learners must consider how each perspective relates to their own practice. Quote 1 (RN, metropolitan acute ward): 'When I can confidently provide a shower chair at discharge, my patient goes home a day earlier. That bed is then available for the next person in ED.' — Focus: system flow. Quote 2 (Physiotherapist, regional community team): 'Prescribing a walking frame during a home visit means my patient can mobilise safely today—not in three weeks when the OT referral is processed.' — Focus: timely intervention. Quote 3 (EN, rural multipurpose service): 'I used to think only OTs could do this. Once I understood my scope, I stopped being the bottleneck.' — Focus: professional empowerment. Closing prompt: 'Which of these perspectives is most relevant to your current role?'",
+        "Variations/Common mistakes/conceptual focus": "Pedagogical purpose: presents multiple real-world perspectives to challenge the assumption that equipment prescription is 'OT-only.' The closing reflective prompt connects each quote to the learner's own context, requiring evaluation rather than passive reading. This goes beyond what static text achieves by presenting competing frames of reference.",
+        "Screen type": "Quote carousel/block",
+        "Media required": "Diverse clinician headshots/avatars (RN, Physiotherapist, EN) representing different settings.",
+        "Resources required/references/consultation": "SME Workshop Transcript (AnneMarie's comments on empowerment; Sarah's comments on discharge flow).",
+        "Learning outcome addressed": "LO1",
+        "Estimated seat time": "1:00–1:30"
+      }
+    ]
+  },
+  {
+    "topic_id": 2,
+    "topic": "3. Introduction to Assessment",
+    "screens": [
+      {
+        "screen_title": "3.1 A Framework for Safe Assessment",
+        "screen_content": "Assessment ensures the equipment fits real-world needs. We look at three intersecting factors—using plain language rather than clinical model names: THE PERSON — What can they do right now? What are their goals? What are their cognitive and physical limits? THE ENVIRONMENT — Where will this equipment be used? What physical features help or hinder? What supports exist in the home and community? THE ACTIVITY — What specific task are we supporting? Showering? Getting to the toilet at night? Walking to the letterbox? Accordion panels: Panel 1 (The Person): Includes functional status, prognosis trajectory (improving post-op vs declining/palliative), cognition, health literacy, psychosocial readiness, carer availability. Panel 2 (The Environment): Includes home layout, bathroom configuration, doorway widths, steps, lighting, floor surfaces, transport/car boot size, rural/remote access constraints. Panel 3 (The Activity): Includes the specific occupation or task being addressed, frequency, independence requirements, safety margin needed. These three factors overlap—and it is in the overlap that safe prescription decisions are made.",
+        "Variations/Common mistakes/conceptual focus": "Pedagogical purpose of Accordion: PEO framework has three distinct but intersecting domains, each with substantial sub-content. Accordion manages intrinsic load by allowing learners to unpack one domain at a time before synthesising the whole. Forces recognition that assessment in isolation (e.g., assessing function without considering the home) is incomplete. Common error: assessing the person in a hospital context and assuming findings transfer to the home environment.",
+        "Screen type": "Text & centred image; Accordion",
+        "Media required": "Venn diagram graphic with three overlapping circles labelled 'The Person,' 'The Environment,' 'The Activity' — with 'Safe Equipment Prescription' at the intersection. Alt-text required.",
+        "Resources required/references/consultation": "PEO Model (Law et al.); SME Workshop consensus on accessible language; Workshop discussion on avoiding jargon.",
+        "Learning outcome addressed": "LO2",
+        "Estimated seat time": "2:00–2:45"
+      },
+      {
+        "screen_title": "3.2 Cultural Safety and Inclusive Practice",
+        "screen_content": "Equipment assessment occurs within a cultural context. Consider: Aboriginal and Torres Strait Islander patients may have specific cultural protocols around who provides care, how the home is discussed, and what constitutes 'family' and community support structures. Build trust by asking permission, involving Aboriginal Health Workers/Practitioners where available, and understanding that a patient's relationship with health services may be shaped by historical and ongoing systemic factors. Patients from culturally and linguistically diverse (CALD) backgrounds may have different expectations about assistive technology, may experience stigma around equipment use, or may need translated instructions. Patients in rural and remote communities may face equipment delivery delays, limited stock in loan pools, and telehealth-only assessment constraints. Plan alternatives and communicate realistic timeframes. Always ask: 'Is there anything about your home, family, or community that would affect how you use this equipment?'",
+        "Variations/Common mistakes/conceptual focus": "Addressing a blind spot: cultural considerations are often absent from equipment prescription training. This screen ensures learners recognise that a 'standard' assessment may miss culturally specific factors that affect equipment acceptance, use, and safety.",
+        "Screen type": "Note block; Text & bullet list",
+        "Media required": "N/A",
+        "Resources required/references/consultation": "NSW Health Aboriginal Health Impact Statement guidelines; Closing the Gap framework; local Aboriginal Health Worker/Practitioner consultation pathways; HETI Cultural Safety resources.",
+        "Learning outcome addressed": "LO2",
+        "Estimated seat time": "1:00–1:30"
+      }
+    ]
+  },
+  {
+    "topic_id": 3,
+    "topic": "4. Understanding the Patient",
+    "screens": [
+      {
+        "screen_title": "4.1 Clinical Diagnosis and Functional Impact",
+        "screen_content": "How a diagnosis influences movement, rest, and daily tasks—and what that means for equipment selection. Accordion panels with diagnosis-to-function mapping: Panel 1 (Stroke — Hemiplegia): One-sided weakness affects grip, balance, braking. Equipment consideration: Can the patient operate brakes with one hand? Panel 2 (COPD / Respiratory conditions): Fatigue, exertional dyspnoea, tripod positioning. Equipment consideration: Energy conservation—does the device have a seat for rest breaks? Panel 3 (Osteoarthritis / Post-orthopaedic surgery): Weight-bearing restrictions (NWB, TWB, PWB, FWB/WBAT). Equipment consideration: Match aid to current weight-bearing status, not projected recovery. Panel 4 (Parkinson's Disease): Freezing of gait, postural instability, tremor. Equipment consideration: Wheeled walkers may exacerbate festination; frames may be safer. Panel 5 (Dementia / Cognitive impairment): Impaired sequencing, memory, safety awareness. Equipment consideration: Can they remember to lock brakes? Follow multi-step instructions? Critical principle: Prescribe for CURRENT function and prognosis trajectory—not diagnosis label alone. A patient improving post-op has different needs than a patient on a palliative trajectory.",
+        "Variations/Common mistakes/conceptual focus": "Accordion justified: five distinct clinical domains, each requiring domain-specific analysis. Chunking prevents cognitive overload while allowing depth. Common error: prescribing based on diagnosis alone without assessing current functional status; prescribing standard walkers for hemiplegic patients without considering one-handed braking; using wheeled walkers for patients with Parkinson's-related festination.",
+        "Screen type": "Accordion",
+        "Media required": "Illustrative icons for each condition (optional). Alt-text required if used.",
+        "Resources required/references/consultation": "SME Workshop clinical input; Weight Bearing Status JSON data; CEC Standardised Mobility Terminology.",
+        "Learning outcome addressed": "LO2",
+        "Estimated seat time": "2:00–2:45"
+      },
+      {
+        "screen_title": "4.2 Patient Goals and Carer Capacity",
+        "screen_content": "The central question: 'What does this person want to do that they can't do right now?' Tab 1 — Patient Goals: Equipment must align with a stated goal. Examples: 'I want to get to the toilet at night without waking my wife,' 'I want to shower without my daughter helping me.' If the patient doesn't want or accept the equipment, it will be abandoned regardless of clinical appropriateness. Tab 2 — Carer Capacity: Assess the carer's physical ability (can they lift/fold the device?), time availability (are they present 24/7 or visiting?), emotional readiness, and transport access (does the 4WW fit in their specific car boot?). Equipment that depends on carer support must account for times when the carer is unavailable. Tab 3 — Mismatch Risks: When patient goals and carer capacity don't align, risks stack. Example: patient wants to mobilise independently, but the prescribed device requires two-person assistance. This mismatch may indicate a need to consult or refer rather than prescribe independently.",
+        "Variations/Common mistakes/conceptual focus": "Tab interaction justified: three related but distinct lenses (goals, carer, mismatch) that learners need to consider in sequence. Common error: assuming a patient will use equipment 'because it is good for them' without checking goal alignment; neglecting carer physical limitations; assuming family availability without direct verification.",
+        "Screen type": "Tab interaction",
+        "Media required": "N/A",
+        "Resources required/references/consultation": "SME Workshop (carer capacity discussion; ELP vs self-purchase discussion).",
+        "Learning outcome addressed": "LO2",
+        "Estimated seat time": "1:30–2:15"
+      },
+      {
+        "screen_title": "4.3 Health Literacy and Cognitive Considerations",
+        "screen_content": "Flip card activity exploring barriers to safe equipment use. Learners read the barrier on the front and predict appropriate strategies, then flip to reveal evidence-based responses. Card 1 Front: 'Low health literacy — Patient cannot read written instructions.' Back: 'Use pictorial instruction sheets. Demonstrate physically. Use teach-back to confirm.' Card 2 Front: 'CALD background — Patient has limited English proficiency.' Back: 'Use interpreter services for initial training. Provide translated key-point cards. Demonstrate with visual cues rather than verbal explanation.' Card 3 Front: 'Mild cognitive impairment — Patient forgets multi-step sequences.' Back: 'Simplify to 2-step maximum. Use repetition and routine embedding. Involve carer in training. Consider whether the device is safe for unsupervised use.' Card 4 Front: 'Sensory impairment — Patient has limited vision.' Back: 'Ensure tactile cues on equipment (e.g., textured brake handles). Use high-contrast labels. Assess whether they can visually confirm brake engagement.'",
+        "Variations/Common mistakes/conceptual focus": "Flip cards justified: forces prediction of appropriate strategy before revealing the answer, engaging active recall and application rather than passive absorption. Common error: handing over written instructions to patients with low literacy or vision impairment; assuming all patients understand standardised instruction sheets; using medical jargon in patient education.",
+        "Screen type": "Flip cards (KC/explore)",
+        "Media required": "Images showing communication solutions (pictorial instruction example, demonstration image).",
+        "Resources required/references/consultation": "HETI Health Literacy guidelines; SME Workshop discussion on health literacy.",
+        "Learning outcome addressed": "LO2, LO5",
+        "Estimated seat time": "1:30–2:00"
+      },
+      {
+        "screen_title": "4.4 Communication Strategies — Knowledge Check",
+        "screen_content": "Multiple choice activity requiring learners to match instruction formats to specific patient profiles. Scenario 1: Mr Nguyen speaks limited English and has mild arthritis. He is being discharged with a shower stool. Which instruction format is most appropriate? (A) Written English-language user manual; (B) Physical demonstration by clinician plus pictorial instruction card in his preferred language; (C) Verbal explanation only, spoken slowly. Correct: B. Scenario 2: Mrs Williams has mild cognitive impairment and lives alone. She is being provided a 4WW. What is the safest training approach? (A) Demonstrate once and provide a pamphlet; (B) Demonstrate, have Mrs Williams perform return demonstration, simplify to 2-step instructions, involve her visiting daughter in a second training session; (C) Instruct her daughter only to avoid confusing Mrs Williams. Correct: B.",
+        "Variations/Common mistakes/conceptual focus": "Multiple choice justified: requires APPLICATION of health literacy principles to novel patient profiles—not recall of definitions. Forces analysis of patient-specific barriers to select the correct communication method. Common error: asking 'Do you understand?' rather than requiring demonstration; accepting vague affirmations from patients with cognitive or language barriers.",
+        "Screen type": "Multiple choice (single)",
+        "Media required": "Patient scenario images (Mr Nguyen, Mrs Williams).",
+        "Resources required/references/consultation": "HETI Health Literacy best practice; Teach-back methodology literature.",
+        "Learning outcome addressed": "LO5",
+        "Estimated seat time": "1:30–2:00"
+      },
+      {
+        "screen_title": "4.5 Basic Measurement Principles",
+        "screen_content": "Mandatory measurement checklist for equipment prescription: • Measure patient hip width for seating/commode — add 2–5 cm for comfort clearance. • Verify patient weight against equipment weight capacity (printed on device label or specifications). Never guess. • For walking aids: handle height should allow 20–30° elbow flexion when standing upright with arms at sides. • Measure relevant doorway widths against frame/walker dimensions before prescribing wheeled devices for home use. • For shower stools: verify seat height against patient's knee-to-floor measurement; check stool dimensions against shower recess dimensions. Red flags (Note block): 'Never guess patient weight or height.' 'Overlooked areas like seat width for commodes can cause skin injury or entrapment.' 'A frame that fits the ward corridor may not fit the patient's bathroom door.'",
+        "Variations/Common mistakes/conceptual focus": "Common error: not checking equipment specifications for weight limits; prescribing seating without measuring hip width; assuming ward-tested equipment will fit the home environment.",
+        "Screen type": "Text & bullet list; Note block",
+        "Media required": "Illustration showing hip width measurement point and elbow flexion angle. Alt-text required.",
+        "Resources required/references/consultation": "SME Workshop measurement discussion; CEC Standardised Mobility Terminology.",
+        "Learning outcome addressed": "LO4",
+        "Estimated seat time": "1:00–1:30"
+      }
+    ]
+  },
+  {
+    "topic_id": 4,
+    "topic": "5. Understanding the Patient's Environment",
+    "screens": [
+      {
+        "screen_title": "5.1 Remote Environmental Assessment",
+        "screen_content": "Process carousel guiding remote assessment when a home visit is not possible: Slide 1 — Ask about room dimensions and doorway widths. Use specific prompts: 'Can you measure the bathroom doorway width with a tape measure?' Slide 2 — Clarify specific features. Do not accept 'I have a shower.' Ask: 'Is it a walk-in shower or a shower over a bath? How wide is the recess? Is there a step or hob?' Slide 3 — Request photos or video. Ask the patient or carer to send smartphone images of the bathroom, bedroom-to-toilet path, front entry, and any steps. Slide 4 — Identify secondary access issues: lighting quality, floor coverings (rugs, carpet edges), path surface outside, and distance from bedroom to toilet. Rural/remote consideration: where home visits are not feasible and telehealth is the only option, photo/video evidence becomes critical. Document the assessment method and any limitations. Note: Equipment delivery in rural and remote areas may involve significant delays and limited loan pool stock—plan alternatives and communicate realistic timeframes to patients.",
+        "Variations/Common mistakes/conceptual focus": "Carousel justified: remote assessment is a sequential process (ask → clarify → verify → identify). Step-by-step structure manages the procedural complexity. Common error: trusting the patient's initial description without probing; not documenting that the assessment was conducted remotely.",
+        "Screen type": "Carousel (general/process)",
+        "Media required": "Smartphone mockup images showing: a video call with a patient's bathroom visible, a photo sent by a carer of entry steps, a simple floor plan sketch. Alt-text required.",
+        "Resources required/references/consultation": "SME Workshop 'second questions' discussion; rural/remote practice considerations.",
+        "Learning outcome addressed": "LO2",
+        "Estimated seat time": "1:30–2:15"
+      },
+      {
+        "screen_title": "5.2 The 'Second Question' Rule",
+        "screen_content": "Flip card activity. Clinicians must learn to probe behind 'It's fine.' Each card shows an initial patient statement on the front. The learner predicts the critical follow-up question, then flips to reveal it with clinical rationale. Card 1 Front: 'I have a shower at home.' Back: 'Is it a shower over a bath? How wide is the shower recess? Could a shower stool fit inside?' — Rationale: A shower-over-bath requires different equipment and may require referral for rails. Card 2 Front: 'The toilet is close to my bedroom.' Back: 'How many steps along the way? Is the path clear at night? Is there adequate lighting? Is the toilet inside or outside the house?' — Rationale: Sarah's SME Workshop example—the patient's toilet was in an external outhouse, requiring a covered outdoor path. Card 3 Front: 'My daughter helps me.' Back: 'How often is your daughter available? Can she physically assist you to stand? Can she fold and transport the walker?' — Rationale: Intermittent carer availability changes equipment requirements. Card 4 Front: 'My house is all on one level.' Back: 'Are there any step-downs between rooms? Any raised thresholds between carpet and tiles? Any steps at the front or back entry?' — Rationale: Patients often do not count internal transitions as 'steps.'",
+        "Variations/Common mistakes/conceptual focus": "Flip cards justified: forces learners to actively generate the follow-up question before seeing the answer, engaging clinical reasoning and prediction rather than passive reading. This interaction type directly teaches the specific clinical skill of probing beyond surface-level patient reports—a core SME Workshop finding. Common error: accepting initial answers at face value; not asking about specific environmental features.",
+        "Screen type": "Flip cards (KC/explore)",
+        "Media required": "N/A",
+        "Resources required/references/consultation": "SME Workshop Transcript — Sarah's 'toilet outside' example; AnneMarie's environmental prompts.",
+        "Learning outcome addressed": "LO2",
+        "Estimated seat time": "1:30–2:00"
+      },
+      {
+        "screen_title": "5.3 Equipment-Environment Matching",
+        "screen_content": "Matching activity. Learners drag equipment types to compatible environmental features, requiring analysis of spatial constraints. Left column (Equipment): (1) Toilet surround; (2) Shower stool; (3) Four-wheeled walker (4WW); (4) Pick-up frame; (5) Bedside commode. Right column (Environmental features): (A) Walk-in shower recess with adequate internal dimensions; (B) Standard toilet with clear floor space on both sides; (C) Wide doorways (>65cm) and smooth floors; (D) Narrow hallways, confined spaces; (E) Bedroom with limited space beside the bed AND toilet >10m or outside. Correct matches: 1-B, 2-A, 3-C, 4-D, 5-E. Feedback explains why each match works—and what would go wrong with the most common mismatch.",
+        "Variations/Common mistakes/conceptual focus": "Matching justified: requires active analysis of spatial constraints and equipment dimensions—cannot be answered by recognition alone; requires synthesis of equipment specifications with environmental features. Common error: attempting to fit standard wheelchairs through narrow bathroom doors; prescribing wide-base walkers for confined toilets.",
+        "Screen type": "Matching activity",
+        "Media required": "Icons of equipment and simple room layout diagrams.",
+        "Resources required/references/consultation": "Equipment specifications; SME Workshop environmental discussion.",
+        "Learning outcome addressed": "LO2",
+        "Estimated seat time": "1:30–2:15"
+      },
+      {
+        "screen_title": "5.4 Access Pathways and Funding",
+        "screen_content": "Button stack interaction presenting equipment procurement decision branches. Clicking each button opens a text block with description, key considerations, and typical timeframe. Button 1 — 'Equipment Loan Pool (ELP)': Fast access (same-day to days). Short-term or interim use. Stock may be limited in rural/remote areas. Check local availability. Best for: Discharge equipment for temporary needs. Button 2 — 'Self-Purchase or Hire': Immediate availability through pharmacies or medical supply retailers. Patient/family bears cost. Best for: Simple items (walking sticks, basic shower stools) when speed is critical and cost is manageable. Button 3 — 'Enable NSW': Funded pathway for eligible patients with longer-term needs. Processing time approximately 6–8 weeks. Not suitable as sole discharge solution—use ELP or interim hire while awaiting Enable NSW approval. Best for: Patients with chronic/permanent conditions who require equipment for >3 months. Button 4 — 'Other Funding Bodies (DVA, NDIS, Private Insurance)': Variable eligibility and processing times. Requires specific application processes. Best for: Patients with existing funding scheme enrolment. Button 5 — 'Uncertain? Consult': If unsure which pathway applies, discuss with team leader, social worker, or OT. Do not delay safe discharge while resolving funding—use an interim solution.",
+        "Variations/Common mistakes/conceptual focus": "Button stack justified: funding pathways involve decision-branch logic where the learner must evaluate patient circumstances and select the appropriate pathway—cannot be achieved through static text because each branch has conditional criteria. Common error: delaying discharge waiting for Enable NSW (≈8 weeks) when short-term ELP equipment is available immediately; not knowing where to start; assuming one pathway fits all patients.",
+        "Screen type": "Button stack",
+        "Media required": "Flowchart-style icons for each funding pathway.",
+        "Resources required/references/consultation": "Enable NSW Guidelines; Equipment Loan Pool procedures; SME Workshop funding discussion.",
+        "Learning outcome addressed": "LO2, LO3",
+        "Estimated seat time": "1:45–2:30"
+      }
+    ]
+  },
+  {
+    "topic_id": 5,
+    "topic": "6. How Does It All Fit Together?",
+    "screens": [
+      {
+        "screen_title": "6.1 Recognising Stacked Risks",
+        "screen_content": "Process carousel demonstrating how individually low-risk factors combine to create high-risk situations requiring consultation or referral. Slide 1 — Isolated Factor: 'Mild lower-limb weakness.' Risk level: LOW. Action: Likely appropriate to prescribe a walking aid independently. Slide 2 — Two Factors: 'Mild weakness + shower is over a bath.' Risk level: MODERATE. Action: The equipment selection becomes more complex—can the patient step over the bath edge safely? Consider consulting. Slide 3 — Three Factors: 'Mild weakness + shower over bath + mild cognitive impairment.' Risk level: HIGH. Action: Combined risks exceed foundational scope. Refer to OT for comprehensive home assessment. Slide 4 — Synthesis: 'Individual risks may each look manageable. But stacked together, they create a situation where the margin for error disappears. This is when you consult or refer.' Clinical principle: If you need to convince yourself it will be OK, it probably isn't OK. That discomfort is a signal to seek another perspective.",
+        "Variations/Common mistakes/conceptual focus": "Carousel justified: the sequential build from one factor to three mirrors the real clinical reasoning process of accumulating information. Each slide adds complexity, requiring re-evaluation of the previous decision. This scaffolded reveal cannot be replicated with static text because the pedagogical power lies in the progressive challenge to the learner's threshold judgement. Common error: treating each risk factor in isolation and missing the compound effect.",
+        "Screen type": "Carousel (general/process)",
+        "Media required": "Risk visualisation graphics using a traffic-light colour scheme (green → amber → red) across slides.",
+        "Resources required/references/consultation": "SME Workshop 'stacking risks' discussion; SME Workshop '3 words' decision process.",
+        "Learning outcome addressed": "LO3",
+        "Estimated seat time": "1:30–2:15"
+      },
+      {
+        "screen_title": "6.2 Clinical Decision: Prescribe, Consult, or Refer?",
+        "screen_content": "Matching activity with three ambiguous clinical vignettes. Learners must match each scenario to the correct decision pathway: PRESCRIBE (equipment decision is clear, low-risk, within scope), CONSULT (seek advice from OT/senior colleague—patient can still receive interim equipment), or REFER (formally refer for specialist assessment—patient requires comprehensive evaluation). Vignette A: 'A patient post-knee replacement, stable, FWB, lives in a single-storey home with a walk-in shower and supportive spouse. Needs a 4WW for household mobility and a shower stool.' → PRESCRIBE. Rationale: Stable function, compatible environment, clear equipment match, carer available. Vignette B: 'A patient with COPD, lives alone, shower over bath, no carer, wants to shower independently. History of one fall in the last month.' → CONSULT. Rationale: Multiple moderate-risk factors (alone, shower-over-bath, fall history) but not necessarily requiring formal OT home assessment. Discuss with OT colleague—may result in interim equipment plus referral. Vignette C: 'A bariatric patient (145kg) with bilateral lower-limb oedema, limited trunk control, complex postural needs, and a home with narrow doorways and stairs.' → REFER. Rationale: Exceeds standard equipment weight capacity, requires specialist seating assessment, environmental barriers require home modification assessment. Note: 'Consult' is not failure. It is collaborative, evidence-based practice. The language is intentionally 'Consult/Refer' rather than 'Escalate' because seeking a colleague's view is a lateral professional action, not a vertical hierarchy.",
+        "Variations/Common mistakes/conceptual focus": "Matching justified: requires clinical decision-making under ambiguity—each vignette contains cues that could support multiple pathways, forcing learners to weigh competing factors rather than pattern-match to a single obvious answer. Common error: delaying safe discharge due to fear of prescribing independently when the situation is clearly low-risk; conversely, failing to refer complex cases due to system bottlenecks or underestimating stacked risks.",
+        "Screen type": "Matching activity",
+        "Media required": "Patient vignette character portraits (diverse patients across settings).",
+        "Resources required/references/consultation": "SME Workshop decision-making discussion; Scope of Practice Guidelines; NSW Health clinical governance frameworks.",
+        "Learning outcome addressed": "LO3",
+        "Estimated seat time": "2:30–3:30"
+      }
+    ]
+  },
+  {
+    "topic_id": 6,
+    "topic": "7. Setting Up Foundational Equipment Safely",
+    "screens": [
+      {
+        "screen_title": "7.1 Spot the Error — and Assess the Patient's Ability to Self-Correct",
+        "screen_content": "Hotspot interaction on an image of an incorrectly set-up bedside commode. Learners click on visible errors to identify them. Hotspot 1: Wheels unlocked (commode can roll during transfer). Hotspot 2: Seat height too high (patient's feet cannot reach the floor when seated). Hotspot 3: Commode positioned too far from the bed (gap creates fall risk during transfer). Hotspot 4: Armrests not secured (armrest collapses under weight). LAYER 2 — Secondary cognitive question after each error identification: 'Given what you know about this patient's cognition and vision (Mrs Chen, mild cognitive impairment, corrected vision), would she be able to identify and correct this error independently?' Options: Yes / No, with feedback. Example feedback for Hotspot 1: 'A patient with mild cognitive impairment may forget to check wheel locks before each transfer. This means the clinician must ensure a routine cue is in place (e.g., a laminated card on the commode armrest: CHECK WHEELS) and must assess whether unsupervised use is safe.'",
+        "Variations/Common mistakes/conceptual focus": "Hotspot justified: requires spatial analysis and safety evaluation of a real-world setup scenario—cannot be replicated through text alone. The secondary cognitive layer innovatively connects equipment verification back to the patient assessment (cognition, vision, dexterity), requiring learners to synthesise knowledge from Topics 4 and 7 simultaneously. This dual-layered approach elevates the interaction beyond simple error-spotting to applied clinical reasoning. Common error: assuming equipment is 'ready to use' out of store without verification; overlooking rubber tip wear; not considering whether the patient can independently maintain safety.",
+        "Screen type": "Hotspot",
+        "Media required": "Photograph or detailed illustration of an incorrectly set-up bedside commode with identifiable errors. Alt-text description of each error location for screen reader users.",
+        "Resources required/references/consultation": "Equipment manufacturer guidelines; SME Workshop setup discussion; CEC Standardised Terminology.",
+        "Learning outcome addressed": "LO4",
+        "Estimated seat time": "2:00–2:45"
+      },
+      {
+        "screen_title": "7.2 Weight Bearing Status and Mobility Assistance Levels",
+        "screen_content": "Tab interaction presenting two critical reference frameworks for safe equipment matching. Tab 1 — Weight Bearing Status: NWB (Non-Weight Bearing): 0% weight through affected limb. Requires non-ambulatory aids or crutches with training. TWB (Touch/Toe Weight Bearing): Foot contacts ground for balance only, no load. PWB (Partial Weight Bearing): Up to a specified percentage of body weight (usually 20–50%). FWB/WBAT (Full Weight Bearing / Weight Bearing As Tolerated): Full load permitted; patient self-regulates based on pain/comfort. Tab 2 — Mobility Assistance Levels: Independent: No physical assistance or verbal cues required. Supervision: Clinician present but not touching; verbal cues only. Standby Assist: Clinician within arm's reach, ready to intervene. Minimal Assist: Patient performs 75%+ of effort; clinician provides light physical support. Moderate Assist: Patient performs 50–74% of effort. Maximal Assist: Patient performs 25–49% of effort. Critical link: Match equipment to BOTH weight bearing status AND assistance level. A patient on PWB who requires moderate assist is NOT a candidate for independent use of a walking aid at home without carer support.",
+        "Variations/Common mistakes/conceptual focus": "Tab interaction justified: two related but distinct taxonomies that learners need to reference side-by-side when making prescription decisions. Common error: prescribing walking aids for non-weight bearing patients; confusing 'supervision' with 'standby assist' leading to insufficient support; prescribing for independent home use when patient requires moderate assistance.",
+        "Screen type": "Tab interaction",
+        "Media required": "Weight bearing status diagram; assistance level icon set.",
+        "Resources required/references/consultation": "Weight Bearing Status JSON; Mobility Terminology JSON; CEC Standardised Terminology.",
+        "Learning outcome addressed": "LO4",
+        "Estimated seat time": "1:30–2:15"
+      },
+      {
+        "screen_title": "7.3 Safety Verification Checklist",
+        "screen_content": "Mandatory pre-handover verification checklist: 1. Verify equipment weight capacity vs patient weight — check label on device. 2. Check all locking mechanisms — brakes, height adjustment catches, folding locks. 3. Inspect rubber tips/ferrules — check for wear, cracking, smooth bases. Replace if worn. 4. Confirm seat width appropriate — minimum 2–5 cm clearance beyond hip width. 5. Verify handle height — elbow at 20–30° flexion when patient stands upright beside the device. 6. Verify patient can independently reach and operate brakes/controls. 7. Test device on the surface type the patient will encounter (e.g., tiles, carpet, outdoor concrete). 8. Document configuration settings (height level, seat position) and serial number if available.",
+        "Variations/Common mistakes/conceptual focus": "Common error: handing over equipment without demonstrating brake operation; failing to document serial number or weight capacity; not checking ferrule condition on walking sticks/frames.",
+        "Screen type": "List-number",
+        "Media required": "Checklist graphic; close-up photos: worn ferrule vs new ferrule, brake engagement positions.",
+        "Resources required/references/consultation": "Equipment safety standards; CEC Standardised Terminology; manufacturer guidelines.",
+        "Learning outcome addressed": "LO4",
+        "Estimated seat time": "1:00–1:30"
+      },
+      {
+        "screen_title": "7.4 Infection Control and Equipment Hygiene",
+        "screen_content": "Equipment Loan Pool devices are shared between patients. Infection control is non-negotiable. Before handover: Clean all contact surfaces with facility-approved disinfectant wipes (or as per local infection control protocol). Inspect for visible contamination, rust, or damage. For patient/carer training: Provide specific cleaning instructions — what product to use, which surfaces to clean, how often (daily for commode seats, weekly for frame handles). Advise on safe storage to prevent contamination (e.g., off bathroom floor). If equipment cannot be adequately cleaned or has visible damage: Do not issue. Return to loan pool and source replacement.",
+        "Variations/Common mistakes/conceptual focus": "Addressing a gap: infection control for shared/loaned equipment is frequently overlooked in prescription training. Particularly relevant for bathroom equipment (commodes, shower stools) where contamination risk is highest.",
+        "Screen type": "Note block; Text & bullet list",
+        "Media required": "Image of equipment being cleaned with disinfectant wipe.",
+        "Resources required/references/consultation": "NSW Health Infection Prevention and Control Policy; local Equipment Loan Pool hygiene protocols.",
+        "Learning outcome addressed": "LO4",
+        "Estimated seat time": "0:45–1:00"
+      }
+    ]
+  },
+  {
+    "topic_id": 7,
+    "topic": "8. Training Patients and Carers",
+    "screens": [
+      {
+        "screen_title": "8.1 Assessing What They Already Know",
+        "screen_content": "Accordion interaction exploring the gap between assumptions and reality. Panel 1 — 'What patients often know': They've seen walkers. They've sat on chairs. They may have used equipment before (or watched family members use it). This generates overconfidence. Panel 2 — 'Where misunderstandings occur': Thinking a wheeled walker is safe on all surfaces including gravel, wet tiles, and thick carpet. Believing brakes are for stopping while walking (rather than for locking before sitting/standing). Not knowing how to fold equipment for transport. Not knowing how to adjust height settings — or that they should not be adjusted without clinical guidance. Panel 3 — 'What this means for your training': Never assume competence based on prior use without direct observation. Always ask: 'Show me how you used your last walker' before providing instruction. Identify specific knowledge gaps before teaching.",
+        "Variations/Common mistakes/conceptual focus": "Accordion justified: three conceptually distinct layers (prior knowledge, misconceptions, implications) that must be processed sequentially before training begins. Forces clinicians to evaluate their own assumptions about patient competence. Common error: skipping assessment of prior knowledge; assuming the patient's previous equipment experience transfers to the new device.",
+        "Screen type": "Accordion",
+        "Media required": "Illustrative scenario images (patient confidently but incorrectly using walker on gravel).",
+        "Resources required/references/consultation": "SME Workshop training discussion.",
+        "Learning outcome addressed": "LO5",
+        "Estimated seat time": "1:15–1:45"
+      },
+      {
+        "screen_title": "8.2 The Equipment Training Timeline",
+        "screen_content": "Timeline interaction showing the lifecycle of safe equipment use. Each stage includes a brief description and key safety actions. Stage 1 — RECEIVE: Patient/carer receives equipment. Clinician explains purpose, basic features, and expected use context. Stage 2 — SET UP: Clinician configures (or verifies configuration) in the intended environment. Documents settings. Stage 3 — USE: Clinician demonstrates correct technique. Patient performs return demonstration (teach-back). Clinician observes and corrects. Repeat until safe. Stage 4 — CLEAN: Patient/carer is taught specific cleaning instructions and frequency. Clinician provides written/pictorial cleaning guide. Stage 5 — STORE: Equipment stored safely — clear of pathways, upright, brakes locked. Patient/carer understands safe storage. Stage 6 — CHECK DAILY: Patient/carer inspects equipment daily — brake function, rubber tip condition, locking mechanisms, cleanliness. Clinician provides a simple checklist (laminated card or fridge magnet). Stage 7 — REPORT: Patient/carer knows who to contact if equipment is damaged, no longer fits, or if their condition changes. Clinician provides contact details for equipment failure or review.",
+        "Variations/Common mistakes/conceptual focus": "Timeline justified: training is a sequential process with a logical order—jumbling the stages creates gaps. The timeline format mirrors real-world workflow and can serve as a reference tool for clinical practice. Pedagogical purpose: builds procedural knowledge that linear text or a bullet list cannot structure as effectively because the temporal progression matters. Common error: the 'here you go' approach—providing equipment without demonstration; providing one-time training without addressing ongoing maintenance, cleaning (infection control), or reporting pathways.",
+        "Screen type": "Timeline",
+        "Media required": "Timeline graphic with stage icons. Optional: short video clip or photo sequence demonstrating teach-back of a walking frame.",
+        "Resources required/references/consultation": "SME Workshop; CEC patient education resources; infection control protocols.",
+        "Learning outcome addressed": "LO5",
+        "Estimated seat time": "2:00–2:30"
+      },
+      {
+        "screen_title": "8.3 Confirming Understanding — Teach-Back Knowledge Check",
+        "screen_content": "Text: The gold standard for confirming understanding is teach-back: 'Show me how you would…' and 'Tell me what you would do if…' It is insufficient to ask 'Do you understand?' — the answer is almost always 'yes' regardless of actual comprehension. Knowledge check (Multiple choice, single): A patient has been trained to use a pick-up frame. Which statement best demonstrates successful teach-back? (A) 'Yes, I understand how to use it.' (B) 'I pick the frame up, move it forward, then step to it — left foot first because that's my stronger side. I check the rubber bits on the bottom aren't worn.' (C) 'My daughter will show me again when I get home.' (D) 'I think I just use it like my old one.' Correct: B. Feedback: Response B demonstrates correct technique recall, personalisation (knowing which foot to lead with), and awareness of maintenance (checking ferrules). Responses A and D are vague affirmations. Response C defers understanding to a carer who may not have been trained.",
+        "Variations/Common mistakes/conceptual focus": "Multiple choice justified: requires evaluation of response quality against teach-back criteria—not simple factual recall. Learners must apply the teach-back framework to distinguish between superficial agreement and genuine demonstrated understanding. Common error: accepting 'I understand' as confirmation; not requiring physical return demonstration; asking closed yes/no questions.",
+        "Screen type": "Text & bullet list; Multiple choice (single)",
+        "Media required": "Image of clinician observing patient demonstrating frame use.",
+        "Resources required/references/consultation": "Teach-back methodology literature; CEC patient education resources.",
+        "Learning outcome addressed": "LO5",
+        "Estimated seat time": "1:30–2:00"
+      },
+      {
+        "screen_title": "8.4 When Equipment Doesn't Fit or Function",
+        "screen_content": "Equipment must never be used if it feels unstable, exceeds weight capacity, or doesn't fit the space. Immediate actions: 1. Cease use of the equipment. 2. Contact the prescribing clinician or team leader. 3. Arrange an interim alternative before discharge if possible (do not send a patient home with nothing if the risk of no equipment is greater than delayed discharge). 4. Document the issue and actions taken. Message to patients/carers: 'If the equipment wobbles, doesn't feel right, or doesn't fit where it needs to go — stop using it and call us. Do not try to make it work.' Provide the contact number prominently (fridge magnet, printed card, phone contact saved).",
+        "Variations/Common mistakes/conceptual focus": "Callout message justified: safety-critical alert that must visually interrupt content flow and trigger a clinical action protocol—not information that should blend into body text. Common error: patients 'making do' with ill-fitting equipment; delaying reporting due to fear of 'bothering' staff; clinicians assuming the patient will figure it out.",
+        "Screen type": "Callout message; Text & bullet list",
+        "Media required": "Warning iconography; example fridge magnet/contact card image.",
+        "Resources required/references/consultation": "Patient safety guidelines; NSW Health incident reporting protocols.",
+        "Learning outcome addressed": "LO5, LO4",
+        "Estimated seat time": "0:45–1:00"
+      }
+    ]
+  },
+  {
+    "topic_id": 8,
+    "topic": "9. Documentation, Review, and Summary",
+    "screens": [
+      {
+        "screen_title": "9.1 Documentation Requirements",
+        "screen_content": "Document equipment provision as you would any prescribed clinical intervention. Required elements in the eMR / clinical record: • Patient's stated goal or desired outcome being addressed. • Equipment prescribed — using standardised CEC terminology (e.g., '4WW' not 'wheely walker'). • Equipment specifications: model, size, serial number (if available), weight capacity. • Configuration settings (e.g., 'Handle height set to position 3 / 82cm'). • Clinical reasoning — why this equipment for this patient in this environment. If applicable, explain why an alternative was not selected. • Safety verification completed — refer to checklist items (7.3). • Patient/carer training — method used (demo + return demo, pictorial guide, interpreter), outcome of teach-back. • Decision pathway: Prescribed independently / Consulted (with whom, re what) / Referred (to whom, reason). • Access pathway used: ELP / self-purchase / Enable NSW referral submitted / other. Do not treat equipment provision as a standing order. Each prescription is a reasoned clinical decision that must be defensible in the record.",
+        "Variations/Common mistakes/conceptual focus": "Common error: documenting only 'walker provided' without specifications, reasoning, or training details; omitting weight capacity verification; not recording the decision pathway (prescribe/consult/refer).",
+        "Screen type": "Text & bullet list; Note block",
+        "Media required": "Example de-identified eMR documentation screenshot (blurred/mock-up) showing a well-documented equipment provision entry.",
+        "Resources required/references/consultation": "NSW Health clinical documentation standards; CEC Standardised Mobility Terminology; SME Workshop documentation discussion.",
+        "Learning outcome addressed": "LO6",
+        "Estimated seat time": "1:15–1:45"
+      },
+      {
+        "screen_title": "9.2 Clinical Handover, Continuity, and Review",
+        "screen_content": "The next clinician needs to know what was provided, why, and what remains uncertain. Handover requirements: • Include equipment details in the discharge summary. • Notify the GP of equipment provision and any pending referrals. • Ensure community nursing / allied health teams are aware of: the equipment type, setup verification status, patient's level of independence with the device, and any outstanding concerns. Equipment return and review: • For Equipment Loan Pool items: Confirm the return process with the patient/carer at the time of provision. Who initiates return? What is the loan duration? • For ongoing needs: Schedule or communicate a review date. Equipment suitability should be reassessed if the patient's condition changes significantly (improvement or deterioration). • Document the expected review timeline and responsible clinician in the handover. Ongoing suitability checks: A device appropriate at discharge may become inappropriate as the patient's condition evolves. Build a review trigger into the care plan.",
+        "Variations/Common mistakes/conceptual focus": "Addressing a gap: equipment provision is often documented in isolation without communicating to downstream providers. Patients may be lost to follow-up with equipment that is no longer suitable. Common error: not including equipment in the discharge summary; not identifying who is responsible for equipment return from ELP; no planned review date.",
+        "Screen type": "Note block; Text & bullet list",
+        "Media required": "Communication pathway diagram showing: Prescribing clinician → Discharge summary → GP → Community team. Optional.",
+        "Resources required/references/consultation": "Integrated care guidelines; NSW Health discharge planning policy.",
+        "Learning outcome addressed": "LO6",
+        "Estimated seat time": "1:00–1:30"
+      },
+      {
+        "screen_title": "9.3 Final Integrative Case Study: Mrs Chen Revisited",
+        "screen_content": "Bookend assessment returning to Mrs Chen from the priming activity (Screen 1.4). Process carousel integrating all learning outcomes into a single clinical scenario. Slide 1 — ASSESS (LO2): Mrs Chen is 74, post-hip fracture, lives alone, single-storey home. She reports having a shower and a toilet 'nearby.' New information: the shower is over a bath. The toilet is 8 metres from the bedroom with a step-down between carpet and tiles. She weighs 68kg. She has mild cognitive impairment (can follow 2-step instructions). Question: Which assessment domains have you now covered? Which remain uncertain? Slide 2 — CLASSIFY (LO1): Based on the assessment, which equipment items are foundational and which require specialist input? Interactive selection: (A) Standard shower stool for the shower-over-bath [foundational? complex?]; (B) Pick-up frame for household mobility [foundational? complex?]; (C) Toilet surround with armrests [foundational? complex?]. Correct: A is COMPLEX (shower-over-bath requires assessment of step-over ability + rail installation); B is FOUNDATIONAL; C is FOUNDATIONAL (standard toilet, clear access). Slide 3 — DECIDE (LO3): You can PRESCRIBE the pick-up frame and toilet surround. You need to CONSULT re: the shower-over-bath situation and the step-down transition. You may need to REFER if the bathroom requires home modifications. What interim solution could you provide for showering safety while the consultation is underway? Slide 4 — SET UP & TRAIN (LO4, LO5): You provide the pick-up frame. Identify one setup check and one teach-back question you would use with Mrs Chen, given her mild cognitive impairment. Slide 5 — DOCUMENT (LO6): List three essential elements you must record in Mrs Chen's discharge documentation. Feedback reveals: equipment type/specs/configuration, clinical reasoning for prescribe vs consult decision, training method and teach-back outcome, pending OT consultation for bathroom, ELP return date for frame.",
+        "Variations/Common mistakes/conceptual focus": "Carousel justified: the integrative case study requires sequential clinical reasoning across multiple linked decisions—the progressive reveal mirrors real clinical workflow (assess → classify → decide → act → document). Cannot be achieved with static text because each slide builds on the previous decision, and premature exposure to later slides would undermine the reasoning process. This is the culminating assessment activity and tests transfer of learning to a novel-but-familiar scenario.",
+        "Screen type": "Carousel (general/process)",
+        "Media required": "Images of Mrs Chen (consistent with priming activity), her home environment elements (shower-over-bath photo, hallway with step-down transition).",
+        "Resources required/references/consultation": "All previous module content; SME Workshop.",
+        "Learning outcome addressed": "LO1, LO2, LO3, LO4, LO5, LO6",
+        "Estimated seat time": "3:00–4:00"
+      },
+      {
+        "screen_title": "9.4 Module Summary and Next Steps",
+        "screen_content": "Key messages: 1. You CAN prescribe foundational, low-risk equipment within your scope of practice. This is not 'stepping on OT toes'—it is collaborative, evidence-based care. 2. A structured assessment framework (Person, Environment, Activity) supports confident, safe decision-making. 3. When individual risks stack, the appropriate response is to consult or refer—not to prescribe through uncertainty. 4. Safe setup means verifying the equipment against the specific patient AND their specific environment. 5. Training must include teach-back and ongoing maintenance instructions—not just a handover. 6. Documentation enables continuity of care and professional accountability. Call to action: Apply this framework in your next discharge or community visit. Consult your local policies for specific equipment loan pool procedures and scope documentation. If you are unsure after completing this module, that's a sign to consult—and now you know how.",
+        "Variations/Common mistakes/conceptual focus": "N/A",
+        "Screen type": "Text only",
+        "Media required": "N/A",
+        "Resources required/references/consultation": "N/A",
+        "Learning outcome addressed": "LO1, LO2, LO3, LO4, LO5, LO6",
+        "Estimated seat time": "0:30–0:45"
+      },
+      {
+        "screen_title": "9.5 References, Resources, and Downloads",
+        "screen_content": "Key references and downloadable resources: • CEC Standardised Mobility Terminology Guide (PDF) • Enable NSW Prescriber Guidelines (link) • Local Health District Equipment Loan Pool Procedures (link to local intranet — consult your ELP coordinator) • Clinical Excellence Commission Falls Prevention Resources (link) • Australian Standards for Mobility Aids — AS 3976 (reference) • NSW Health Infection Prevention and Control Policy (link) • HETI Health Literacy Resources (link) • NSW Health Aboriginal Health Impact Statement Guidelines (link) Downloadable clinical tools: • Equipment Safety Verification Checklist (printable PDF) • Patient Training Timeline Reference Card (printable PDF) • 'Second Question' Prompt Card for Environmental Assessment (printable PDF)",
+        "Variations/Common mistakes/conceptual focus": "N/A",
+        "Screen type": "References; File attachment",
+        "Media required": "PDF files for downloadable tools.",
+        "Resources required/references/consultation": "CEC; Enable NSW; Standards Australia; NSW Health; HETI.",
+        "Learning outcome addressed": "N/A",
+        "Estimated seat time": "0:30–1:00"
+      }
+    ]
+  }
+]
